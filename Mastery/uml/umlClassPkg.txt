@@ -1,0 +1,372 @@
+@startuml
+
+title M4 Mastery - TSG Flooring Corp
+
+
+package view {
+    interface UserIO{
+        +print(): void {message: String}
+        +readString(): String {prompt: String}
+        +readInt(): int {prompt: String}
+        +readInt(): int {prompt: String, min: int, max: int}
+        +readDouble(): double {prompt: String}
+        +readDouble(): double {prompt: String, min: double, max: double}
+        +readFloat(): float {prompt: String}
+        +readFloat(): float {prompt: String, min: float, max: float}
+        +readLong(): long {prompt: String}
+        +readLong(): long {prompt: String, min: long, max: long}
+        +readBigDecimal(): BigDecimal {prompt: String}
+        +readBigDecimal(): BigDecimal {prompt: String, min: BigDecimal, max: BigDecimal}
+        +readLocalDate(): LocalDate {prompt: String}
+        +readLocalDate(): LocalDate {prompt: String, min: LocalDate, max: LocalDate}
+    }
+
+    class UserIOImpl{
+        -input: Scanner
+
+        +print(): void {message: String}
+        +readString(): String {prompt: String}
+        +readInt(): int {prompt: String}
+        +readInt(): int {prompt: String, min: int, max: int}
+        +readDouble(): double {prompt: String}
+        +readDouble(): double {prompt: String, min: double, max: double}
+        +readFloat(): float {prompt: String}
+        +readFloat(): float {prompt: String, min: float, max: float}
+        +readLong(): long {prompt: String}
+        +readLong(): long {prompt: String, min: long, max: long}
+        +readBigDecimal(): BigDecimal {prompt: String}
+        +readBigDecimal(): BigDecimal {prompt: String, min: BigDecimal, max: BigDecimal}
+    }
+
+    UserIO <|-down- UserIOImpl: implements
+
+    class View{
+        -io: UserIO
+
+        +View() {io: UserIO}
+
+        +mainMenuAndSelection(): int
+
+        +displayAddOrderBanner(): void
+        +inputOrderDate(): LocalDate
+        +inputCustomerName(): String
+        +inputState(): String {validStates: List<State>}
+        +inputProductType(): String {validProducts: List<State>}
+        +inputArea(): BigDecimal
+        +confirmNewOrder(): boolean {userOrder: Order}
+        +displayOrderInfo(): void {userOrder: Order}
+        +displayAddOrderSuccessBanner(): void
+        +displayAddOrderFailBanner(): void
+
+        +displayDisplayOrdersBanner(): void
+        +getOrdersDate(): LocalDate
+        +displayOrdersByDate(): void {ordersOnDate: List<Order>}
+        +displayDisplayOrdersFailBanner(): void
+
+        +displayEditOrderBanner(): void
+        +inputEditedOrderDate(): LocalDate {orderToEdit: Order}
+        +inputEditedCustomerName(): String {orderToEdit: Order}
+        +inputEditedState(): String {orderToEdit: Order, validStates: List<String>}
+        +inputEditedProductType(): String {orderToEdit: Order, validProducts: List<String>}
+        +inputEditedArea(): BigDecimal {orderToEdit: Order}
+        +confirmOrderEdit(): boolean {orderEdits: Order}
+        +displayEditOrderSuccessBanner(): void
+        +displayEditOrderFailBanner(): void
+
+        +displayRemoveOrderBanner(): void
+        'recycles getOrdersDate()
+        +getOrderRemovalNumber(): int
+        +confirmOrderRemoval(): boolean
+        +displayRemoveOrderSuccessBanner(): void
+        +displayRemoveOrderFailBanner(): void
+
+        +displayExportOrderBanner():void
+        +displayExportOrderSuccessBanner(): void
+        +displayExportOrderFailBanner(): void
+        
+        +displayExitBanner(): void
+        +displayUnknownCommandBanner(): void
+        +displayErrorMessage(): void {errorMsg: String}
+    }
+}
+
+package controller {
+    class Controller{
+        -Service: service
+        -View: view
+
+        +Controller() {Service: service, View: view}
+        
+        +run(): void
+        -getMenuSelection(): int
+        +unknownCommand(): void
+        +exitMessage(): void
+
+        +displayOrders(): void
+        -addOrder(): void
+        -editOrder(): void
+        -removeOrder(): void
+        -exportOrders(): void
+    }
+}
+
+package service {
+    interface Service{
+        +validateOrder(): Order {orderRequest: Order}
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +editOrder(): Order {editedOrder: Order}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): List<Order> {date: LocalDate}
+        +exportOrders(): void
+        +getAllOrders(): List<Order>
+        +getValidStatesList(): List<State>
+        +getValidProductsList(): List<Product>
+    }
+
+    class ServiceImpl{
+        -state: StateDao
+        -product: ProductDao
+        -dao: OrderDao
+        -auditDao: AuditDao
+        -export: ExportFileDao
+
+        +ServiceImpl() {state: StateDao, product: ProductDao, dao: OrderDao, auditDao: AuditDao, export: ExportFileDao}
+
+        +validateOrder(): Order {orderRequest: Order}
+        +addOrder(): Order {orderRequest: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +editOrder(): Order {newOrder: Order, orderToReplace: Order}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): List<Order> {date: LocalDate}
+        +exportOrders(): void
+        +getAllOrders(): List<Order>
+        +getValidStatesList(): List<State>
+        +getValidProductsList(): List<Product>
+
+        -validateState(): State {userState: String}
+        -validateProductType(): Product {userProduct: String}
+        -calcOrderCosts(): void {orderRequest: Order}
+        
+        '-calcMaterialCost(): BigDecimal {newOrder: Order}
+        '-calcLaborCost(): BigDecimal {newOrder: Order}
+        '-calcTax(): BigDecimal {newOrder: Order}
+        '-calcTotal(): BigDecimal {newOrder: Order}
+        
+        -getHighestOrderNumber(): int 
+        'get highest value of the order number after getting all orders, will call get all orders
+    }
+
+    Service <|-down- ServiceImpl: implements
+
+    class InvalidProductTypeException <<Exception>>{
+        +InvalidProductTypeException() {message: String}
+        +InvalidProductTypeException() {message: String, cause: Throwable}
+    }
+
+    class InvalidStateException <<Exception>>{
+        +InvalidStateException() {message: String}
+        +InvalidStateException() {message: String, cause: Throwable}
+    }
+
+    class InvalidOrderNumberException <<Exception>>{
+        +InvalidOrderNumberException() {message: String}
+        +InvalidOrderNumberException() {message: String, cause: Throwable}
+    }
+
+    class NoOrdersOnDateException <<Exception>>{
+        +NoOrdersOnDateException() {message: String}
+        +NoOrdersOnDateException() {message: String, cause: Throwable}
+    }
+
+}
+
+package dao {
+    'all will have a production and testing ctor
+    'delimiters must be commas ,
+    
+    class StateDao{
+        -states: Map<String, State>
+        +STATES_FILE: String
+        +DELIMITER: String
+
+        +StateDao()
+        +StateDao() {statesTextFile: String}
+
+        -unmarshallState() : State {stateAsText: String}
+        -loadStates(): void
+        +readStateByID(): State {userState: String}
+        +getValidStates(): List<State>
+    }
+    
+    class ProductDao{
+        -products: Map<String, Product>
+        +PRODUCT_FILE: String
+        +DELIMITER: String
+
+        +ProductDao()
+        +ProductDao() {productsTextFile: String}
+
+        -unmarshallProduct() : Product {productAsText: String}
+        -loadProducts(): void
+        +readProductByID(): Product {userProduct: String}
+        +getValidProducts(): List<Product>
+    }
+
+    interface OrderDao{
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {removalDate: LocalDate, removalID: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +editOrder(): Order {orderEdit: Order, orderToReplace: Order}
+        +getOrdersByDate(): List<Order> {date: LocalDate}
+        +getAllOrders(): List<Order>
+    }
+
+    class OrderDaoImpl{
+        'https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/TreeMap.html
+        -orders: Map<LocalDate, Map<Integer, Order>>
+        +ORDER_DIRECTORY: String
+        'this is going to be the "orders" FOLDER NOT a file
+        +DELIMITER: String
+
+        +OrderDaoImpl()
+        +OrderDaoImpl() {ordersTextFile: String}
+
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +editOrder(): Order {newOrder: Order, orderToReplace: Order}
+        +getOrdersByDate(): List<Order> {date: LocalDate}
+        +getAllOrders(): List<Order>
+
+        -marshallOrder(): String {anOrder: Order}
+        -unmarshallOrder(): Order {orderAsText: String}
+        -loadAllOrders(): void
+        -writeAllOrders(): void
+    }
+
+    OrderDao <|-down- OrderDaoImpl: implements
+
+    interface AuditDao{
+        +writeAuditEntry(): void {entry: String}
+    }
+
+    class AuditDaoImpl{
+        +AUDIT_FILE: String
+
+        +writeAuditEntry(): void {entry: String}
+    }
+
+    AuditDao <|-down- AuditDaoImpl: implements
+
+    class ExportFileDao{
+        +BACKUP_FILE
+        'this will be DataExport.txt
+        +DELIMITER: String
+
+        +ExportFileDao()
+        +ExportFileDao() {exportFileText: String}
+
+        +exportOrders(): void {activeOrders: List<Order>}
+        -marshallOrder(): String {anOrder: Order}
+    }
+
+    class OrderPersistenceException <<Exception>>{
+        OrderPersistenceException() {message: String}
+        OrderPersistenceException() {message: String, cause: Throwable}
+    }
+}
+
+package model {
+    class Product{
+        -productType: String
+        -costPerSqFt: BigDecimal
+        -laborCostPerSqFt: BigDecimal
+
+        +Product() {productType: String, costPerSqFt: BigDecimal, laborCostPerSqFt: BigDecimal}
+
+        +getProductType(): String
+        +getCostPerSqFt(): BigDecimal
+        +getLaborCostPerSqFt(): BigDecimal
+
+        +setProductType(): void {productType: String}
+        +setCostPerSqFt(): void {costPerSqFt: BigDecimal}
+        +setLaborCostPerSqFt(): void {laborCostPerSqFt: BigDecimal}
+    }
+
+    class State{
+        -stateAbbreviation: String
+        -stateName: String
+        -taxRate: BigDecimal
+
+        +State() {stateAbbreviation: String, stateName: String, taxRate: BigDecimal}
+
+        +getStateAbbreviation(): String
+        +getStateName(): String
+        +getTaxRate(): BigDecimal
+
+        +setStateAbbreviation(): void {stateAbbreviation: String}
+        +setStateName(): void {stateName: String}
+        +setTaxRate(): void {taxRate: BigDecimal}
+    }
+    
+    class Order{
+        -orderDate: LocalDate
+        -orderNumber: int
+        -customerName: String
+        -state: State
+        -productType: Product
+        -area: BigDecimal
+        -materialCost: BigDecimal
+        -laborCost: BigDecimal
+        -tax: BigDecimal
+        -total: BigDecimal
+
+        'ctor for view to service
+        +Order() {orderDate: LocalDate, customerName: String, state: State, productType: Product, area: BigDecimal}
+        'ctor for service down
+        +Order() {orderDate: LocalDate, orderNumber: int, customerName: String, state: State, productType: Product, area: BigDecimal, materialCost: BigDecimal, laborCost: BigDecimal, tax: BigDecimal, total: BigDecimal}
+
+        +getOrderDate(): LocalDate
+        +getOrderNumber(): int
+        +getCustomerName(): String
+        +getState(): State
+        +getProductType(): ProductTypes
+        +getArea(): BigDecimal
+        +getMaterialCost(): BigDecimal
+        +getLaborCost(): BigDecimal
+        +getTax(): BigDecimal
+        +getTotal(): BigDecimal
+
+        'can be set by edit functionality
+        +setCustomerName(): void {customerName: String}
+        +setState(): void {state: State}
+        +setProductType(): void {productTypes: ProductTypes}
+        +setArea(): void {area: BigDecimal}
+
+        'service layer will have to calculate and set these
+        +setMaterialCost(): void {materialCost: BigDecimal}
+        +setLaborCost(): void {laborCost: BigDecimal}
+        +setTax(): void {tax: BigDecimal}
+        +setTotal(): void {total: BigDecimal}
+    }
+}
+
+package advice{
+    class LoggingAdvice{
+        -auditDao: AuditDao
+
+        +LoggingAdvice() {auditDao: AuditDao}
+
+        +createAuditEntry(): void {jp: JoinPoint}
+        +createExceptionAtJoinpointEntry(): void {jp: JoinPoint, ex: Exception}
+    }
+}
+
+controller *-up- view
+controller *-down- service
+service *-down- dao
+dao *-down- model
+controller *-down- advice
+
+@enduml

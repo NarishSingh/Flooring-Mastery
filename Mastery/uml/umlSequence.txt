@@ -1,0 +1,225 @@
+/*----------------------------------------------------*/
+
+@startuml
+title TSG Flooring Corp - addOrder() Sequence
+
+View <- Controller : displayAddOrderBanner()
+View --> Controller : void 
+
+View <- Controller : inputOrderDate()
+View --> Controller : LocalDate
+'ensure this is a future date
+
+View <- Controller : inputCustomerName()
+'validation done w regex
+View --> Controller : String
+
+Controller -> Service : getValidStatesList()
+Service -> StateDao : getValidStates()
+StateDao --> StateDao : loadStates()
+StateDao --> Service : List<State>
+Service --> Controller : List<State>
+View <- Controller : inputState(List<State>)
+View --> Controller : String
+Controller -> Service : validateState(String)
+Service -> StateDao : readStateByID(String)
+StateDao --> Service : State
+Service --> Controller : State
+
+Controller -> Service : getValidProductsList()
+Service -> ProductDao : getValidProducts()
+ProductDao --> ProductDao : loadProducts()
+ProductDao --> Service : List<Product>
+Service --> Controller : List<Product>
+View <- Controller : inputProductType(List<Product>)
+View --> Controller : String
+Controller -> Service : validateProductType(String)
+Service -> ProductDao : readProductByID(String)
+ProductDao --> Service : Product
+Service --> Controller : Product
+
+View <- Controller : inputArea()
+View --> Controller : BigDecimal
+
+Controller --> Controller : Order(LocalDate, String, State, Product, BigDecimal)
+
+Controller -> Service: validateOrder(Order)
+Service --> Service : calcOrderCosts(Order)
+Service --> Service : getHighestOrderNumber()
+Service --> Service : Order(LocalDate, int, String, State, Product, BigDecimal, BigDecimal, BigDecimal, BigDecimal, BigDecimal, BigDecimal)
+Service --> Controller : Order
+
+Controller -> View : confirmNewOrder(Order)
+View --> Controller : boolean
+
+Controller --> Service : Order
+Service -> OrderDao : addOrder(Order)
+OrderDao --> OrderDao : loadAllOrders()
+OrderDao --> OrderDao : writeAllOrders()
+OrderDao --> Service : Order
+'write to backup file
+Service --> Controller : Order
+
+'OrderDao -[#blue]-> AuditDao : writeAuditEntry()
+
+Controller -> View : displayAddOrderSuccessBanner()
+View --> Controller : void
+
+@enduml
+
+/*----------------------------------------------------*/
+
+@startuml
+title TSG Flooring Corp - removeOrder() Sequence
+
+View <- Controller : displayRemoveOrderBanner()
+View --> Controller : void 
+View <- Controller : getSingleOrderDate()
+View --> Controller : LocalDate
+View <- Controller : getOrderNum()
+View --> Controller : int
+
+Controller -> Service : getOrder(LocalDate, int)
+Service -> OrderDao : getOrder(LocalDate, int)
+OrderDao --> Service : Order
+Service --> Controller : Order
+
+Controller -> View : confirmOrderRemoval(Order)
+View --> Controller : boolean
+
+Controller -> Service : removeOrder(date: LocalDate, orderNum: int)
+Service -> OrderDao : removeOrder(LocalDate, int)
+OrderDao --> OrderDao : loadAllOrders()
+OrderDao --> OrderDao : writeAllOrders()
+OrderDao --> Service : Order
+Service --> Controller : void
+
+'OrderDao -[#blue]-> AuditDao : writeAuditEntry()
+
+Controller -> View : displayRemoveOrderSuccessBanner()
+View --> Controller : void
+
+@enduml
+
+/*----------------------------------------------------*/
+
+@startuml
+title TSG Flooring Corp - editOrder() Sequence
+
+View <- Controller : displayEditOrderBanner()
+View --> Controller : void
+'all \n user entries must  be copied over
+
+'need to get order first
+View <- Controller : getSingleOrderDate()
+View --> Controller : LocalDate
+View <- Controller : getOrderNum()
+View --> Controller : int
+
+Controller -> Service : getOrder(LocalDate, int)
+Service -> OrderDao : getOrder(LocalDate, int)
+OrderDao --> Service : Order
+Service --> Controller : Order
+
+View <- Controller : inputEditCustomerName(Order)
+View --> Controller : String
+
+Controller -> Service : getValidStatesList(Order)
+Service -> StateDao : getValidStates()
+StateDao --> StateDao : loadStates()
+StateDao --> Service : List<State>
+Service --> Controller : List<State>
+View <- Controller : inputEditState(Order, List<State>)
+View --> Controller : String
+Controller -> Service : validateState(String)
+Service -> StateDao : readStateByID(String)
+StateDao --> Service : State
+Service --> Controller : State
+
+Controller -> Service : getValidProductsList()
+Service -> ProductDao : getValidProducts()
+ProductDao --> ProductDao : loadProducts()
+ProductDao --> Service : List<Product>
+Service --> Controller : List<Product>
+View <- Controller : inputEditProductType(Order, List<Product>)
+View --> Controller : String
+Controller -> Service : validateProductType(String, List<Product>)
+Service -> ProductDao : readProductByID(String)
+ProductDao --> Service : Product
+Service --> Controller : Product
+
+View <- Controller : inputEditArea(Order)
+View --> Controller : BigDecimal
+Controller --> Controller : Order(LocalDate, String, State, Product, BigDecimal)
+
+Controller --> Service : validateOrder(Order)
+Service --> Service : calcOrderCosts(Order)
+Service --> Service : Order(LocalDate, int, String, State, Product, BigDecimal, BigDecimal, BigDecimal, BigDecimal, BigDecimal, BigDecimal)
+Service --> Controller : Order
+
+Controller -> View : confirmOrderEdit(Order)
+View --> Controller : boolean
+
+Controller --> Service : Order
+Service -> OrderDao : editOrder(Order, Order)
+OrderDao --> OrderDao : loadAllOrders()
+OrderDao --> OrderDao : writeAllOrders()
+OrderDao --> Service : Order
+Service --> Controller : Order
+
+'OrderDao -[#blue]-> AuditDao : writeAuditEntry()
+
+Controller -> View : displayOrderInfo(Order)
+View --> Controller : void
+
+Controller -> View : displayEditOrderSuccessBanner()
+View --> Controller : void
+
+@enduml
+
+/*----------------------------------------------------*/
+
+@startuml
+title TSG Flooring Corp - displayOrders() Sequence
+
+View <- Controller : displayDisplayOrdersBanner()
+View --> Controller : void
+View <- Controller : getOrdersDate()
+View --> Controller : LocalDate
+
+Controller -> Service : getOrdersByDate(LocalDate)
+Service -> OrderDao : getOrdersByDate(LocalDate)
+OrderDao --> OrderDao : loadAllOrders()
+OrderDao --> OrderDao : unmarshallOrder(String)
+OrderDao --> Service : List<Order>
+Service --> Controller : List<Order>
+
+Controller -> View : displayOrdersByDateInfo(List<Order>)
+View --> Controller : void
+
+@enduml
+
+/*----------------------------------------------------*/
+
+@startuml
+title TSG Flooring Corp - exportOrder() Sequence
+
+View <- Controller : displayExportOrderBanner()
+View --> Controller : void
+
+Controller -> Service : exportOrders()
+Service -> OrderDao : getAllOrders()
+OrderDao --> Service : List<Order>
+Service -> ExportFileDao : exportOrders(List<Order>)
+ExportFileDao --> ExportFileDao : marshallOrder(Order)
+ExportFileDao --> Service : void
+'ExportFileDao -[#blue]-> AuditDao : writeAuditEntry()
+Service --> Controller : void
+
+Controller -> View : displayExportOrderSuccessBanner()
+View --> Controller : void
+
+@enduml
+
+/*----------------------------------------------------*/
+

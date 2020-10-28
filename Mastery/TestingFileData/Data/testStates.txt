@@ -1,0 +1,3 @@
+State,StateName,TaxRate
+TX,Texas,4.45
+WA,Washington,9.25

@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="2286px" preserveAspectRatio="none" style="width:5863px;height:2286px;" version="1.1" viewBox="0 0 5863 2286" width="5863px" zoomAndPan="magnify"><defs><filter height="300%" id="fjn4qjw2dbhgd" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="296" x="2774.8404" y="16.708">M4 Mastery - TSG Flooring Corp</text><!--MD5=[86cbce8df1eb9d604fbbb2fa357940f8]
+cluster view--><polygon fill="#FFFFFF" filter="url(#fjn4qjw2dbhgd)" points="30.6808,369.9531,72.6808,369.9531,79.6808,392.25,876.6808,392.25,876.6808,1211.4531,30.6808,1211.4531,30.6808,369.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="30.6808" x2="79.6808" y1="392.25" y2="392.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="36" x="34.6808" y="384.9482">view</text><!--MD5=[10ea673caf457862023e152271927b45]
+cluster controller--><polygon fill="#FFFFFF" filter="url(#fjn4qjw2dbhgd)" points="2606.6808,26.9531,2692.6808,26.9531,2699.6808,49.25,2969.6808,49.25,2969.6808,320.9531,2606.6808,320.9531,2606.6808,26.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="2606.6808" x2="2699.6808" y1="49.25" y2="49.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="80" x="2610.6808" y="41.9482">controller</text><!--MD5=[7579d5565d2521d5936cec86ed3dadee]
+cluster service--><polygon fill="#FFFFFF" filter="url(#fjn4qjw2dbhgd)" points="916.6808,555.4531,979.6808,555.4531,986.6808,577.75,2622.6808,577.75,2622.6808,1236.9531,916.6808,1236.9531,916.6808,555.4531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="916.6808" x2="986.6808" y1="577.75" y2="577.75"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="57" x="920.6808" y="570.4482">service</text><!--MD5=[5622bc4ba3bf2be5d17935065b98c5f9]
+cluster dao--><polygon fill="#FFFFFF" filter="url(#fjn4qjw2dbhgd)" points="2662.6808,987.4531,2698.6808,987.4531,2705.6808,1009.75,4035.6808,1009.75,4035.6808,1622.9531,2662.6808,1622.9531,2662.6808,987.4531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="2662.6808" x2="2705.6808" y1="1009.75" y2="1009.75"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="30" x="2666.6808" y="1002.4482">dao</text><!--MD5=[5d4cd377749310b66bf14896f5cd8d9b]
+cluster model--><polygon fill="#FFFFFF" filter="url(#fjn4qjw2dbhgd)" points="4075.6808,1335.4531,4130.6807,1335.4531,4137.6807,1357.75,5841.6808,1357.75,5841.6808,2274.9531,4075.6808,2274.9531,4075.6808,1335.4531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="4075.6808" x2="4137.6807" y1="1357.75" y2="1357.75"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="49" x="4079.6808" y="1350.4482">model</text><!--MD5=[d331a3ff7b39c2f0ab8412e150e17076]
+cluster advice--><polygon fill="#FFFFFF" filter="url(#fjn4qjw2dbhgd)" points="2662.6808,555.4531,2720.6808,555.4531,2727.6808,577.75,3013.6808,577.75,3013.6808,734.4531,2662.6808,734.4531,2662.6808,555.4531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="2662.6808" x2="2727.6808" y1="577.75" y2="577.75"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="52" x="2666.6808" y="570.4482">advice</text><!--MD5=[de5623efa9834f9f49bdd61b9485560b]
+class UserIO--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="176.0469" id="UserIO" style="stroke: #A80036; stroke-width: 1.5;" width="397" x="455.1808" y="566.4531"/><ellipse cx="629.4308" cy="582.4531" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M630.3839,579.2344 L632.1026,579.2344 C632.4933,579.2344 632.6808,579.2031 632.8058,579.125 C633.0714,578.9688 633.212,578.6875 633.212,578.3906 C633.212,578.125 633.1026,577.8594 632.8683,577.6875 C632.6964,577.5781 632.5558,577.5469 632.1026,577.5469 L626.962,577.5469 C626.5245,577.5469 626.3995,577.5625 626.2433,577.6563 C625.9933,577.8125 625.837,578.1094 625.837,578.3906 C625.837,578.6719 625.9776,578.9219 626.1964,579.0938 C626.3526,579.2031 626.5401,579.2344 626.962,579.2344 L628.6808,579.2344 L628.6808,585.75 L626.962,585.75 C626.5245,585.75 626.3995,585.7656 626.2433,585.875 C625.9933,586.0313 625.837,586.3125 625.837,586.6094 C625.837,586.8594 625.9776,587.125 626.1964,587.2813 C626.3526,587.4063 626.5558,587.4531 626.962,587.4531 L632.1026,587.4531 C632.8526,587.4531 633.212,587.1719 633.212,586.6094 C633.212,586.3281 633.1026,586.0781 632.8683,585.9063 C632.6964,585.7813 632.5558,585.75 632.1026,585.75 L630.3839,585.75 L630.3839,579.2344 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="40" x="649.9308" y="586.6074">UserIO</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="456.1808" x2="851.1808" y1="598.4531" y2="598.4531"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="456.1808" x2="851.1808" y1="606.4531" y2="606.4531"/><ellipse cx="466.1808" cy="617.4531" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="175" x="475.1808" y="620.6636">print(): void {message: String}</text><ellipse cx="466.1808" cy="630.2578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="205" x="475.1808" y="633.4683">readString(): String {prompt: String}</text><ellipse cx="466.1808" cy="643.0625" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="167" x="475.1808" y="646.2729">readInt(): int {prompt: String}</text><ellipse cx="466.1808" cy="655.8672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="269" x="475.1808" y="659.0776">readInt(): int {prompt: String, min: int, max: int}</text><ellipse cx="466.1808" cy="668.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="219" x="475.1808" y="671.8823">readDouble(): double {prompt: String}</text><ellipse cx="466.1808" cy="681.4766" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="371" x="475.1808" y="684.687">readDouble(): double {prompt: String, min: double, max: double}</text><ellipse cx="466.1808" cy="694.2813" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="191" x="475.1808" y="697.4917">readFloat(): float {prompt: String}</text><ellipse cx="466.1808" cy="707.0859" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="315" x="475.1808" y="710.2964">readFloat(): float {prompt: String, min: float, max: float}</text><ellipse cx="466.1808" cy="719.8906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="190" x="475.1808" y="723.1011">readLong(): long {prompt: String}</text><ellipse cx="466.1808" cy="732.6953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="312" x="475.1808" y="735.9058">readLong(): long {prompt: String, min: long, max: long}</text><!--MD5=[5f51f9167c1c1294812cb04190ceaad5]
+class UserIOImpl--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="188.8516" id="UserIOImpl" style="stroke: #A80036; stroke-width: 1.5;" width="397" x="455.1808" y="998.4531"/><ellipse cx="615.9308" cy="1014.4531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M618.2745,1010.125 C617.337,1009.6875 616.7433,1009.5469 615.8683,1009.5469 C613.2433,1009.5469 611.2433,1011.625 611.2433,1014.3438 L611.2433,1015.4688 C611.2433,1018.0469 613.3526,1019.9375 616.2433,1019.9375 C617.462,1019.9375 618.6183,1019.6406 619.3683,1019.0938 C619.9464,1018.6875 620.2745,1018.2344 620.2745,1017.8438 C620.2745,1017.3906 619.8839,1017 619.4151,1017 C619.1964,1017 618.9933,1017.0781 618.8058,1017.2656 C618.3526,1017.75 618.3526,1017.75 618.1651,1017.8438 C617.7433,1018.1094 617.0558,1018.2344 616.2901,1018.2344 C614.2433,1018.2344 612.9464,1017.1406 612.9464,1015.4375 L612.9464,1014.3438 C612.9464,1012.5625 614.1964,1011.25 615.9308,1011.25 C616.5089,1011.25 617.1183,1011.4063 617.587,1011.6563 C618.0714,1011.9375 618.2433,1012.1563 618.337,1012.5625 C618.3995,1012.9688 618.4308,1013.0938 618.5714,1013.2188 C618.712,1013.3594 618.9464,1013.4688 619.1651,1013.4688 C619.4308,1013.4688 619.6964,1013.3281 619.8683,1013.1094 C619.9776,1012.9531 620.0089,1012.7656 620.0089,1012.3438 L620.0089,1010.9219 C620.0089,1010.4844 619.9933,1010.3594 619.8995,1010.2031 C619.7433,1009.9375 619.462,1009.7969 619.1651,1009.7969 C618.8683,1009.7969 618.6651,1009.8906 618.4464,1010.2031 L618.2745,1010.125 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="67" x="636.4308" y="1018.6074">UserIOImpl</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="456.1808" x2="851.1808" y1="1030.4531" y2="1030.4531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="463.1808" y="1038.4531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="82" x="475.1808" y="1044.6636">input: Scanner</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="456.1808" x2="851.1808" y1="1051.2578" y2="1051.2578"/><ellipse cx="466.1808" cy="1062.2578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="175" x="475.1808" y="1065.4683">print(): void {message: String}</text><ellipse cx="466.1808" cy="1075.0625" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="205" x="475.1808" y="1078.2729">readString(): String {prompt: String}</text><ellipse cx="466.1808" cy="1087.8672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="167" x="475.1808" y="1091.0776">readInt(): int {prompt: String}</text><ellipse cx="466.1808" cy="1100.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="269" x="475.1808" y="1103.8823">readInt(): int {prompt: String, min: int, max: int}</text><ellipse cx="466.1808" cy="1113.4766" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="219" x="475.1808" y="1116.687">readDouble(): double {prompt: String}</text><ellipse cx="466.1808" cy="1126.2813" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="371" x="475.1808" y="1129.4917">readDouble(): double {prompt: String, min: double, max: double}</text><ellipse cx="466.1808" cy="1139.0859" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="191" x="475.1808" y="1142.2964">readFloat(): float {prompt: String}</text><ellipse cx="466.1808" cy="1151.8906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="315" x="475.1808" y="1155.1011">readFloat(): float {prompt: String, min: float, max: float}</text><ellipse cx="466.1808" cy="1164.6953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="190" x="475.1808" y="1167.9058">readLong(): long {prompt: String}</text><ellipse cx="466.1808" cy="1177.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="312" x="475.1808" y="1180.7104">readLong(): long {prompt: String, min: long, max: long}</text><!--MD5=[2620394343313710429c34eeb6b59983]
+class FlView--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="483.3594" id="FlView" style="stroke: #A80036; stroke-width: 1.5;" width="346" x="73.6808" y="412.9531"/><ellipse cx="222.9308" cy="428.9531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M225.2745,424.625 C224.337,424.1875 223.7433,424.0469 222.8683,424.0469 C220.2433,424.0469 218.2433,426.125 218.2433,428.8438 L218.2433,429.9688 C218.2433,432.5469 220.3526,434.4375 223.2433,434.4375 C224.462,434.4375 225.6183,434.1406 226.3683,433.5938 C226.9464,433.1875 227.2745,432.7344 227.2745,432.3438 C227.2745,431.8906 226.8839,431.5 226.4151,431.5 C226.1964,431.5 225.9933,431.5781 225.8058,431.7656 C225.3526,432.25 225.3526,432.25 225.1651,432.3438 C224.7433,432.6094 224.0558,432.7344 223.2901,432.7344 C221.2433,432.7344 219.9464,431.6406 219.9464,429.9375 L219.9464,428.8438 C219.9464,427.0625 221.1964,425.75 222.9308,425.75 C223.5089,425.75 224.1183,425.9063 224.587,426.1563 C225.0714,426.4375 225.2433,426.6563 225.337,427.0625 C225.3995,427.4688 225.4308,427.5938 225.5714,427.7188 C225.712,427.8594 225.9464,427.9688 226.1651,427.9688 C226.4308,427.9688 226.6964,427.8281 226.8683,427.6094 C226.9776,427.4531 227.0089,427.2656 227.0089,426.8438 L227.0089,425.4219 C227.0089,424.9844 226.9933,424.8594 226.8995,424.7031 C226.7433,424.4375 226.462,424.2969 226.1651,424.2969 C225.8683,424.2969 225.6651,424.3906 225.4464,424.7031 L225.2745,424.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="39" x="243.4308" y="433.1074">FlView</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="74.6808" x2="418.6808" y1="444.9531" y2="444.9531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="81.6808" y="452.9531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="55" x="93.6808" y="459.1636">io: UserIO</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="74.6808" x2="418.6808" y1="465.7578" y2="465.7578"/><ellipse cx="84.6808" cy="476.7578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="118" x="93.6808" y="479.9683">FlView() {io: UserIO}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="97.6808" y="492.7729"/><ellipse cx="84.6808" cy="502.3672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="164" x="93.6808" y="505.5776">mainMenuAndSelection(): int</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="97.6808" y="518.3823"/><ellipse cx="84.6808" cy="527.9766" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="174" x="93.6808" y="531.187">displayAddOrderBanner(): void</text><ellipse cx="84.6808" cy="540.7813" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="144" x="93.6808" y="543.9917">getNewOrderInfo(): Order</text><ellipse cx="84.6808" cy="553.5859" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="235" x="93.6808" y="556.7964">displayOrderInfo(): void {anOrder: Order}</text><ellipse cx="84.6808" cy="566.3906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="221" x="93.6808" y="569.6011">displayAddOrderSuccessBanner(): void</text><ellipse cx="84.6808" cy="579.1953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="193" x="93.6808" y="582.4058">displayAddOrderFailBanner(): void</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="97.6808" y="595.2104"/><ellipse cx="84.6808" cy="604.8047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="200" x="93.6808" y="608.0151">displayDisplayOrdersBanner(): void</text><ellipse cx="84.6808" cy="617.6094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="157" x="93.6808" y="620.8198">getOrdersDate(): LocalDate</text><ellipse cx="84.6808" cy="630.4141" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="320" x="93.6808" y="633.6245">displayOrdersByDateInfo(): void {Map&lt;Integer, Order&gt;}</text><ellipse cx="84.6808" cy="643.2188" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="219" x="93.6808" y="646.4292">displayDisplayOrdersFailBanner(): void</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="97.6808" y="659.2339"/><ellipse cx="84.6808" cy="668.8281" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="173" x="93.6808" y="672.0386">displayEditOrderBanner(): void</text><ellipse cx="84.6808" cy="681.6328" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="155" x="93.6808" y="684.8433">getEditedOrderInfo(): Order</text><ellipse cx="84.6808" cy="694.4375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="220" x="93.6808" y="697.6479">displayEditOrderSuccessBanner(): void</text><ellipse cx="84.6808" cy="707.2422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="192" x="93.6808" y="710.4526">displayEditOrderFailBanner(): void</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="97.6808" y="723.2573"/><ellipse cx="84.6808" cy="732.8516" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="200" x="93.6808" y="736.062">displayRemoveOrderBanner(): void</text><ellipse cx="84.6808" cy="745.6563" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="201" x="93.6808" y="748.8667">getOrderRemovalDate(): LocalDate</text><ellipse cx="84.6808" cy="758.4609" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="156" x="93.6808" y="761.6714">getOrderRemovalNum(): int</text><ellipse cx="84.6808" cy="771.2656" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="247" x="93.6808" y="774.4761">displayRemoveOrderSuccessBanner(): void</text><ellipse cx="84.6808" cy="784.0703" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="219" x="93.6808" y="787.2808">displayRemoveOrderFailBanner(): void</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="97.6808" y="800.0854"/><ellipse cx="84.6808" cy="809.6797" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="184" x="93.6808" y="812.8901">displayExportOrderBanner():void</text><ellipse cx="84.6808" cy="822.4844" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="235" x="93.6808" y="825.6948">displayExportOrderSuccessBanner(): void</text><ellipse cx="84.6808" cy="835.2891" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="207" x="93.6808" y="838.4995">displayExportOrderFailBanner(): void</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="97.6808" y="851.3042"/><ellipse cx="84.6808" cy="860.8984" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="141" x="93.6808" y="864.1089">displayExitBanner(): void</text><ellipse cx="84.6808" cy="873.7031" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="229" x="93.6808" y="876.9136">displayUnknownCommandBanner(): void</text><ellipse cx="84.6808" cy="886.5078" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="263" x="93.6808" y="889.7183">displayErrorMessage(): void {errorMsg: String}</text><!--MD5=[0bde1794119bfa1b5ec597fe8dc99c86]
+class FlController--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="227.2656" id="FlController" style="stroke: #A80036; stroke-width: 1.5;" width="296" x="2649.6808" y="69.9531"/><ellipse cx="2758.9308" cy="85.9531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M2761.2745,81.625 C2760.337,81.1875 2759.7433,81.0469 2758.8683,81.0469 C2756.2433,81.0469 2754.2433,83.125 2754.2433,85.8438 L2754.2433,86.9688 C2754.2433,89.5469 2756.3526,91.4375 2759.2433,91.4375 C2760.462,91.4375 2761.6183,91.1406 2762.3683,90.5938 C2762.9464,90.1875 2763.2745,89.7344 2763.2745,89.3438 C2763.2745,88.8906 2762.8839,88.5 2762.4151,88.5 C2762.1964,88.5 2761.9933,88.5781 2761.8058,88.7656 C2761.3526,89.25 2761.3526,89.25 2761.1651,89.3438 C2760.7433,89.6094 2760.0558,89.7344 2759.2901,89.7344 C2757.2433,89.7344 2755.9464,88.6406 2755.9464,86.9375 L2755.9464,85.8438 C2755.9464,84.0625 2757.1964,82.75 2758.9308,82.75 C2759.5089,82.75 2760.1183,82.9063 2760.587,83.1563 C2761.0714,83.4375 2761.2433,83.6563 2761.337,84.0625 C2761.3995,84.4688 2761.4308,84.5938 2761.5714,84.7188 C2761.712,84.8594 2761.9464,84.9688 2762.1651,84.9688 C2762.4308,84.9688 2762.6964,84.8281 2762.8683,84.6094 C2762.9776,84.4531 2763.0089,84.2656 2763.0089,83.8438 L2763.0089,82.4219 C2763.0089,81.9844 2762.9933,81.8594 2762.8995,81.7031 C2762.7433,81.4375 2762.462,81.2969 2762.1651,81.2969 C2761.8683,81.2969 2761.6651,81.3906 2761.4464,81.7031 L2761.2745,81.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="69" x="2779.4308" y="90.1074">FlController</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2650.6808" x2="2944.6808" y1="101.9531" y2="101.9531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2657.6808" y="109.9531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="102" x="2669.6808" y="116.1636">FlService: service</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2657.6808" y="122.7578"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="71" x="2669.6808" y="128.9683">FlView: view</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2650.6808" x2="2944.6808" y1="135.5625" y2="135.5625"/><ellipse cx="2660.6808" cy="146.5625" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="270" x="2669.6808" y="149.7729">FlController() {FlService: service, FlView: view}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="2673.6808" y="162.5776"/><ellipse cx="2660.6808" cy="172.1719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="57" x="2669.6808" y="175.3823">run(): void</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2657.6808" y="181.9766"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="133" x="2669.6808" y="188.187">getMenuSelection(): int</text><ellipse cx="2660.6808" cy="197.7813" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="147" x="2669.6808" y="200.9917">unknownCommand(): void</text><ellipse cx="2660.6808" cy="210.5859" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="112" x="2669.6808" y="213.7964">exitMessage(): void</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="2673.6808" y="226.6011"/><ellipse cx="2660.6808" cy="236.1953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="117" x="2669.6808" y="239.4058">displayOrders(): void</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2657.6808" y="246"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="92" x="2669.6808" y="252.2104">addOrder(): void</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2657.6808" y="258.8047"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="93" x="2669.6808" y="265.0151">editOrder(): void</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2657.6808" y="271.6094"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="116" x="2669.6808" y="277.8198">removeOrder(): void</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2657.6808" y="284.4141"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="114" x="2669.6808" y="290.6245">exportOrders(): void</text><!--MD5=[8c8273773effcba9d9beb32d2671775b]
+class FlService--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="112.0234" id="FlService" style="stroke: #A80036; stroke-width: 1.5;" width="370" x="940.6808" y="598.4531"/><ellipse cx="1094.4308" cy="614.4531" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M1095.3839,611.2344 L1097.1026,611.2344 C1097.4933,611.2344 1097.6808,611.2031 1097.8058,611.125 C1098.0714,610.9688 1098.212,610.6875 1098.212,610.3906 C1098.212,610.125 1098.1026,609.8594 1097.8683,609.6875 C1097.6964,609.5781 1097.5558,609.5469 1097.1026,609.5469 L1091.962,609.5469 C1091.5245,609.5469 1091.3995,609.5625 1091.2433,609.6563 C1090.9933,609.8125 1090.837,610.1094 1090.837,610.3906 C1090.837,610.6719 1090.9776,610.9219 1091.1964,611.0938 C1091.3526,611.2031 1091.5401,611.2344 1091.962,611.2344 L1093.6808,611.2344 L1093.6808,617.75 L1091.962,617.75 C1091.5245,617.75 1091.3995,617.7656 1091.2433,617.875 C1090.9933,618.0313 1090.837,618.3125 1090.837,618.6094 C1090.837,618.8594 1090.9776,619.125 1091.1964,619.2813 C1091.3526,619.4063 1091.5558,619.4531 1091.962,619.4531 L1097.1026,619.4531 C1097.8526,619.4531 1098.212,619.1719 1098.212,618.6094 C1098.212,618.3281 1098.1026,618.0781 1097.8683,617.9063 C1097.6964,617.7813 1097.5558,617.75 1097.1026,617.75 L1095.3839,617.75 L1095.3839,611.2344 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="54" x="1114.9308" y="618.6074">FlService</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="941.6808" x2="1309.6808" y1="630.4531" y2="630.4531"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="941.6808" x2="1309.6808" y1="638.4531" y2="638.4531"/><ellipse cx="951.6808" cy="649.4531" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="213" x="960.6808" y="652.6636">addOrder(): Order {newOrder: Order}</text><ellipse cx="951.6808" cy="662.2578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="316" x="960.6808" y="665.4683">removeOrder(): Order {date: LocalDate, orderNum: int}</text><ellipse cx="951.6808" cy="675.0625" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="290" x="960.6808" y="678.2729">getOrder(): Order {date: LocalDate, orderNum: int}</text><ellipse cx="951.6808" cy="687.8672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="344" x="960.6808" y="691.0776">getOrdersByDate(): Map&lt;Integer, Order&gt; {date: LocalDate}</text><ellipse cx="951.6808" cy="700.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="114" x="960.6808" y="703.8823">exportOrders(): void</text><!--MD5=[d2a1089b8cdc921fab711de7193ce58c]
+class FlServiceImpl--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="240.0703" id="FlServiceImpl" style="stroke: #A80036; stroke-width: 1.5;" width="370" x="940.6808" y="972.9531"/><ellipse cx="1080.9308" cy="988.9531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M1083.2745,984.625 C1082.337,984.1875 1081.7433,984.0469 1080.8683,984.0469 C1078.2433,984.0469 1076.2433,986.125 1076.2433,988.8438 L1076.2433,989.9688 C1076.2433,992.5469 1078.3526,994.4375 1081.2433,994.4375 C1082.462,994.4375 1083.6183,994.1406 1084.3683,993.5938 C1084.9464,993.1875 1085.2745,992.7344 1085.2745,992.3438 C1085.2745,991.8906 1084.8839,991.5 1084.4151,991.5 C1084.1964,991.5 1083.9933,991.5781 1083.8058,991.7656 C1083.3526,992.25 1083.3526,992.25 1083.1651,992.3438 C1082.7433,992.6094 1082.0558,992.7344 1081.2901,992.7344 C1079.2433,992.7344 1077.9464,991.6406 1077.9464,989.9375 L1077.9464,988.8438 C1077.9464,987.0625 1079.1964,985.75 1080.9308,985.75 C1081.5089,985.75 1082.1183,985.9063 1082.587,986.1563 C1083.0714,986.4375 1083.2433,986.6563 1083.337,987.0625 C1083.3995,987.4688 1083.4308,987.5938 1083.5714,987.7188 C1083.712,987.8594 1083.9464,987.9688 1084.1651,987.9688 C1084.4308,987.9688 1084.6964,987.8281 1084.8683,987.6094 C1084.9776,987.4531 1085.0089,987.2656 1085.0089,986.8438 L1085.0089,985.4219 C1085.0089,984.9844 1084.9933,984.8594 1084.8995,984.7031 C1084.7433,984.4375 1084.462,984.2969 1084.1651,984.2969 C1083.8683,984.2969 1083.6651,984.3906 1083.4464,984.7031 L1083.2745,984.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="81" x="1101.4308" y="993.1074">FlServiceImpl</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="941.6808" x2="1309.6808" y1="1004.9531" y2="1004.9531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="948.6808" y="1012.9531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="60" x="960.6808" y="1019.1636">dao: FlDao</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="948.6808" y="1025.7578"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="119" x="960.6808" y="1031.9683">auditDao: FlAuditDao</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="941.6808" x2="1309.6808" y1="1038.5625" y2="1038.5625"/><ellipse cx="951.6808" cy="1049.5625" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="290" x="960.6808" y="1052.7729">flServiceImpl() {dao: FlDao, auditDAO: FlAuditDao}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="964.6808" y="1065.5776"/><ellipse cx="951.6808" cy="1075.1719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="213" x="960.6808" y="1078.3823">addOrder(): Order {newOrder: Order}</text><ellipse cx="951.6808" cy="1087.9766" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="316" x="960.6808" y="1091.187">removeOrder(): Order {date: LocalDate, orderNum: int}</text><ellipse cx="951.6808" cy="1100.7813" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="290" x="960.6808" y="1103.9917">getOrder(): Order {date: LocalDate, orderNum: int}</text><ellipse cx="951.6808" cy="1113.5859" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="344" x="960.6808" y="1116.7964">getOrdersByDate(): Map&lt;Integer, Order&gt; {date: LocalDate}</text><ellipse cx="951.6808" cy="1126.3906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="114" x="960.6808" y="1129.6011">exportOrders(): void</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="964.6808" y="1142.4058"/><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="948.6808" y="1149"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="252" x="960.6808" y="1155.2104">validateOrder(): boolean {newOrder: Order}</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="948.6808" y="1161.8047"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="285" x="960.6808" y="1168.0151">calcMaterialCost(): BigDecimal {newOrder: Order}</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="948.6808" y="1174.6094"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="271" x="960.6808" y="1180.8198">calcLaborCost(): BigDecimal {newOrder: Order}</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="948.6808" y="1187.4141"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="236" x="960.6808" y="1193.6245">calcTax(): BigDecimal {newOrder: Order}</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="948.6808" y="1200.2188"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="243" x="960.6808" y="1206.4292">calcTotal(): BigDecimal {newOrder: Order}</text><!--MD5=[1d84f32c3687d9b965eeac80cfef78f5]
+class InvalidProductTypeException--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="79.5469" id="InvalidProductTypeException" style="stroke: #A80036; stroke-width: 1.5;" width="415" x="1346.1808" y="614.4531"/><ellipse cx="1463.4308" cy="633.4219" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M1465.7745,629.0938 C1464.837,628.6563 1464.2433,628.5156 1463.3683,628.5156 C1460.7433,628.5156 1458.7433,630.5938 1458.7433,633.3125 L1458.7433,634.4375 C1458.7433,637.0156 1460.8526,638.9063 1463.7433,638.9063 C1464.962,638.9063 1466.1183,638.6094 1466.8683,638.0625 C1467.4464,637.6563 1467.7745,637.2031 1467.7745,636.8125 C1467.7745,636.3594 1467.3839,635.9688 1466.9151,635.9688 C1466.6964,635.9688 1466.4933,636.0469 1466.3058,636.2344 C1465.8526,636.7188 1465.8526,636.7188 1465.6651,636.8125 C1465.2433,637.0781 1464.5558,637.2031 1463.7901,637.2031 C1461.7433,637.2031 1460.4464,636.1094 1460.4464,634.4063 L1460.4464,633.3125 C1460.4464,631.5313 1461.6964,630.2188 1463.4308,630.2188 C1464.0089,630.2188 1464.6183,630.375 1465.087,630.625 C1465.5714,630.9063 1465.7433,631.125 1465.837,631.5313 C1465.8995,631.9375 1465.9308,632.0625 1466.0714,632.1875 C1466.212,632.3281 1466.4464,632.4375 1466.6651,632.4375 C1466.9308,632.4375 1467.1964,632.2969 1467.3683,632.0781 C1467.4776,631.9219 1467.5089,631.7344 1467.5089,631.3125 L1467.5089,629.8906 C1467.5089,629.4531 1467.4933,629.3281 1467.3995,629.1719 C1467.2433,628.9063 1466.962,628.7656 1466.6651,628.7656 C1466.3683,628.7656 1466.1651,628.8594 1465.9464,629.1719 L1465.7745,629.0938 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="1532.9308" y="630.5918">«Exception»</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="172" x="1483.9308" y="644.5605">InvalidProductTypeException</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="1347.1808" x2="1760.1808" y1="652.3906" y2="652.3906"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="1347.1808" x2="1760.1808" y1="660.3906" y2="660.3906"/><ellipse cx="1357.1808" cy="671.3906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="282" x="1366.1808" y="674.6011">InvalidProductTypeException() {message: String}</text><ellipse cx="1357.1808" cy="684.1953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="389" x="1366.1808" y="687.4058">InvalidProductTypeException() {message: String, cause: Throwable}</text><!--MD5=[09e7dc2cd78df9b7aca29e47316e4731]
+class InvalidStateException--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="79.5469" id="InvalidStateException" style="stroke: #A80036; stroke-width: 1.5;" width="376" x="1796.6808" y="614.4531"/><ellipse cx="1916.4308" cy="633.4219" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M1918.7745,629.0938 C1917.837,628.6563 1917.2433,628.5156 1916.3683,628.5156 C1913.7433,628.5156 1911.7433,630.5938 1911.7433,633.3125 L1911.7433,634.4375 C1911.7433,637.0156 1913.8526,638.9063 1916.7433,638.9063 C1917.962,638.9063 1919.1183,638.6094 1919.8683,638.0625 C1920.4464,637.6563 1920.7745,637.2031 1920.7745,636.8125 C1920.7745,636.3594 1920.3839,635.9688 1919.9151,635.9688 C1919.6964,635.9688 1919.4933,636.0469 1919.3058,636.2344 C1918.8526,636.7188 1918.8526,636.7188 1918.6651,636.8125 C1918.2433,637.0781 1917.5558,637.2031 1916.7901,637.2031 C1914.7433,637.2031 1913.4464,636.1094 1913.4464,634.4063 L1913.4464,633.3125 C1913.4464,631.5313 1914.6964,630.2188 1916.4308,630.2188 C1917.0089,630.2188 1917.6183,630.375 1918.087,630.625 C1918.5714,630.9063 1918.7433,631.125 1918.837,631.5313 C1918.8995,631.9375 1918.9308,632.0625 1919.0714,632.1875 C1919.212,632.3281 1919.4464,632.4375 1919.6651,632.4375 C1919.9308,632.4375 1920.1964,632.2969 1920.3683,632.0781 C1920.4776,631.9219 1920.5089,631.7344 1920.5089,631.3125 L1920.5089,629.8906 C1920.5089,629.4531 1920.4933,629.3281 1920.3995,629.1719 C1920.2433,628.9063 1919.962,628.7656 1919.6651,628.7656 C1919.3683,628.7656 1919.1651,628.8594 1918.9464,629.1719 L1918.7745,629.0938 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="1963.9308" y="630.5918">«Exception»</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="128" x="1936.9308" y="644.5605">InvalidStateException</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="1797.6808" x2="2171.6808" y1="652.3906" y2="652.3906"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="1797.6808" x2="2171.6808" y1="660.3906" y2="660.3906"/><ellipse cx="1807.6808" cy="671.3906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="243" x="1816.6808" y="674.6011">InvalidStateException() {message: String}</text><ellipse cx="1807.6808" cy="684.1953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="350" x="1816.6808" y="687.4058">InvalidStateException() {message: String, cause: Throwable}</text><!--MD5=[d25a91e1cf4af0ce314731bd47f832a7]
+class InvalidAreaException--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="79.5469" id="InvalidAreaException" style="stroke: #A80036; stroke-width: 1.5;" width="372" x="2207.6808" y="614.4531"/><ellipse cx="2326.9308" cy="633.4219" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M2329.2745,629.0938 C2328.337,628.6563 2327.7433,628.5156 2326.8683,628.5156 C2324.2433,628.5156 2322.2433,630.5938 2322.2433,633.3125 L2322.2433,634.4375 C2322.2433,637.0156 2324.3526,638.9063 2327.2433,638.9063 C2328.462,638.9063 2329.6183,638.6094 2330.3683,638.0625 C2330.9464,637.6563 2331.2745,637.2031 2331.2745,636.8125 C2331.2745,636.3594 2330.8839,635.9688 2330.4151,635.9688 C2330.1964,635.9688 2329.9933,636.0469 2329.8058,636.2344 C2329.3526,636.7188 2329.3526,636.7188 2329.1651,636.8125 C2328.7433,637.0781 2328.0558,637.2031 2327.2901,637.2031 C2325.2433,637.2031 2323.9464,636.1094 2323.9464,634.4063 L2323.9464,633.3125 C2323.9464,631.5313 2325.1964,630.2188 2326.9308,630.2188 C2327.5089,630.2188 2328.1183,630.375 2328.587,630.625 C2329.0714,630.9063 2329.2433,631.125 2329.337,631.5313 C2329.3995,631.9375 2329.4308,632.0625 2329.5714,632.1875 C2329.712,632.3281 2329.9464,632.4375 2330.1651,632.4375 C2330.4308,632.4375 2330.6964,632.2969 2330.8683,632.0781 C2330.9776,631.9219 2331.0089,631.7344 2331.0089,631.3125 L2331.0089,629.8906 C2331.0089,629.4531 2330.9933,629.3281 2330.8995,629.1719 C2330.7433,628.9063 2330.462,628.7656 2330.1651,628.7656 C2329.8683,628.7656 2329.6651,628.8594 2329.4464,629.1719 L2329.2745,629.0938 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="2372.9308" y="630.5918">«Exception»</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="125" x="2347.4308" y="644.5605">InvalidAreaException</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2208.6808" x2="2578.6808" y1="652.3906" y2="652.3906"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="2208.6808" x2="2578.6808" y1="660.3906" y2="660.3906"/><ellipse cx="2218.6808" cy="671.3906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="239" x="2227.6808" y="674.6011">InvalidAreaException() {message: String}</text><ellipse cx="2218.6808" cy="684.1953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="346" x="2227.6808" y="687.4058">InvalidAreaException() {message: String, cause: Throwable}</text><!--MD5=[18809626e5601ee8da28d66919c849af]
+class InvalidOrderNumberException--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="79.5469" id="InvalidOrderNumberException" style="stroke: #A80036; stroke-width: 1.5;" width="422" x="1345.6808" y="1052.9531"/><ellipse cx="1462.4308" cy="1071.9219" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M1464.7745,1067.5938 C1463.837,1067.1563 1463.2433,1067.0156 1462.3683,1067.0156 C1459.7433,1067.0156 1457.7433,1069.0938 1457.7433,1071.8125 L1457.7433,1072.9375 C1457.7433,1075.5156 1459.8526,1077.4063 1462.7433,1077.4063 C1463.962,1077.4063 1465.1183,1077.1094 1465.8683,1076.5625 C1466.4464,1076.1563 1466.7745,1075.7031 1466.7745,1075.3125 C1466.7745,1074.8594 1466.3839,1074.4688 1465.9151,1074.4688 C1465.6964,1074.4688 1465.4933,1074.5469 1465.3058,1074.7344 C1464.8526,1075.2188 1464.8526,1075.2188 1464.6651,1075.3125 C1464.2433,1075.5781 1463.5558,1075.7031 1462.7901,1075.7031 C1460.7433,1075.7031 1459.4464,1074.6094 1459.4464,1072.9063 L1459.4464,1071.8125 C1459.4464,1070.0313 1460.6964,1068.7188 1462.4308,1068.7188 C1463.0089,1068.7188 1463.6183,1068.875 1464.087,1069.125 C1464.5714,1069.4063 1464.7433,1069.625 1464.837,1070.0313 C1464.8995,1070.4375 1464.9308,1070.5625 1465.0714,1070.6875 C1465.212,1070.8281 1465.4464,1070.9375 1465.6651,1070.9375 C1465.9308,1070.9375 1466.1964,1070.7969 1466.3683,1070.5781 C1466.4776,1070.4219 1466.5089,1070.2344 1466.5089,1069.8125 L1466.5089,1068.3906 C1466.5089,1067.9531 1466.4933,1067.8281 1466.3995,1067.6719 C1466.2433,1067.4063 1465.962,1067.2656 1465.6651,1067.2656 C1465.3683,1067.2656 1465.1651,1067.3594 1464.9464,1067.6719 L1464.7745,1067.5938 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="1535.9308" y="1069.0918">«Exception»</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="180" x="1482.9308" y="1083.0605">InvalidOrderNumberException</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="1346.6808" x2="1766.6808" y1="1090.8906" y2="1090.8906"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="1346.6808" x2="1766.6808" y1="1098.8906" y2="1098.8906"/><ellipse cx="1356.6808" cy="1109.8906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="289" x="1365.6808" y="1113.1011">InvalidOrderNumberException() {message: String}</text><ellipse cx="1356.6808" cy="1122.6953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="396" x="1365.6808" y="1125.9058">InvalidOrderNumberException() {message: String, cause: Throwable}</text><!--MD5=[b3499d60e32d5fb05742867b3f091c8a]
+class NoOrdersOnDateException--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="79.5469" id="NoOrdersOnDateException" style="stroke: #A80036; stroke-width: 1.5;" width="405" x="1803.1808" y="1052.9531"/><ellipse cx="1919.9308" cy="1071.9219" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M1922.2745,1067.5938 C1921.337,1067.1563 1920.7433,1067.0156 1919.8683,1067.0156 C1917.2433,1067.0156 1915.2433,1069.0938 1915.2433,1071.8125 L1915.2433,1072.9375 C1915.2433,1075.5156 1917.3526,1077.4063 1920.2433,1077.4063 C1921.462,1077.4063 1922.6183,1077.1094 1923.3683,1076.5625 C1923.9464,1076.1563 1924.2745,1075.7031 1924.2745,1075.3125 C1924.2745,1074.8594 1923.8839,1074.4688 1923.4151,1074.4688 C1923.1964,1074.4688 1922.9933,1074.5469 1922.8058,1074.7344 C1922.3526,1075.2188 1922.3526,1075.2188 1922.1651,1075.3125 C1921.7433,1075.5781 1921.0558,1075.7031 1920.2901,1075.7031 C1918.2433,1075.7031 1916.9464,1074.6094 1916.9464,1072.9063 L1916.9464,1071.8125 C1916.9464,1070.0313 1918.1964,1068.7188 1919.9308,1068.7188 C1920.5089,1068.7188 1921.1183,1068.875 1921.587,1069.125 C1922.0714,1069.4063 1922.2433,1069.625 1922.337,1070.0313 C1922.3995,1070.4375 1922.4308,1070.5625 1922.5714,1070.6875 C1922.712,1070.8281 1922.9464,1070.9375 1923.1651,1070.9375 C1923.4308,1070.9375 1923.6964,1070.7969 1923.8683,1070.5781 C1923.9776,1070.4219 1924.0089,1070.2344 1924.0089,1069.8125 L1924.0089,1068.3906 C1924.0089,1067.9531 1923.9933,1067.8281 1923.8995,1067.6719 C1923.7433,1067.4063 1923.462,1067.2656 1923.1651,1067.2656 C1922.8683,1067.2656 1922.6651,1067.3594 1922.4464,1067.6719 L1922.2745,1067.5938 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="1984.9308" y="1069.0918">«Exception»</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="163" x="1940.4308" y="1083.0605">NoOrdersOnDateException</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="1804.1808" x2="2207.1808" y1="1090.8906" y2="1090.8906"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="1804.1808" x2="2207.1808" y1="1098.8906" y2="1098.8906"/><ellipse cx="1814.1808" cy="1109.8906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="272" x="1823.1808" y="1113.1011">NoOrdersOnDateException() {message: String}</text><ellipse cx="1814.1808" cy="1122.6953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="379" x="1823.1808" y="1125.9058">NoOrdersOnDateException() {message: String, cause: Throwable}</text><!--MD5=[277364d6012ad041a13e08f93aa0e3d9]
+class StateDao--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="150.4375" id="StateDao" style="stroke: #A80036; stroke-width: 1.5;" width="296" x="2961.6808" y="1378.4531"/><ellipse cx="3077.9308" cy="1394.4531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M3080.2745,1390.125 C3079.337,1389.6875 3078.7433,1389.5469 3077.8683,1389.5469 C3075.2433,1389.5469 3073.2433,1391.625 3073.2433,1394.3438 L3073.2433,1395.4688 C3073.2433,1398.0469 3075.3526,1399.9375 3078.2433,1399.9375 C3079.462,1399.9375 3080.6183,1399.6406 3081.3683,1399.0938 C3081.9464,1398.6875 3082.2745,1398.2344 3082.2745,1397.8438 C3082.2745,1397.3906 3081.8839,1397 3081.4151,1397 C3081.1964,1397 3080.9933,1397.0781 3080.8058,1397.2656 C3080.3526,1397.75 3080.3526,1397.75 3080.1651,1397.8438 C3079.7433,1398.1094 3079.0558,1398.2344 3078.2901,1398.2344 C3076.2433,1398.2344 3074.9464,1397.1406 3074.9464,1395.4375 L3074.9464,1394.3438 C3074.9464,1392.5625 3076.1964,1391.25 3077.9308,1391.25 C3078.5089,1391.25 3079.1183,1391.4063 3079.587,1391.6563 C3080.0714,1391.9375 3080.2433,1392.1563 3080.337,1392.5625 C3080.3995,1392.9688 3080.4308,1393.0938 3080.5714,1393.2188 C3080.712,1393.3594 3080.9464,1393.4688 3081.1651,1393.4688 C3081.4308,1393.4688 3081.6964,1393.3281 3081.8683,1393.1094 C3081.9776,1392.9531 3082.0089,1392.7656 3082.0089,1392.3438 L3082.0089,1390.9219 C3082.0089,1390.4844 3081.9933,1390.3594 3081.8995,1390.2031 C3081.7433,1389.9375 3081.462,1389.7969 3081.1651,1389.7969 C3080.8683,1389.7969 3080.6651,1389.8906 3080.4464,1390.2031 L3080.2745,1390.125 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="55" x="3098.4308" y="1398.6074">StateDao</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2962.6808" x2="3256.6808" y1="1410.4531" y2="1410.4531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2969.6808" y="1418.4531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="154" x="2981.6808" y="1424.6636">states: Map&lt;String, State&gt;</text><ellipse cx="2972.6808" cy="1434.2578" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="113" x="2981.6808" y="1437.4683">STATES_FILE: String</text><ellipse cx="2972.6808" cy="1447.0625" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="2981.6808" y="1450.2729">DELIMITER: String</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2962.6808" x2="3256.6808" y1="1456.8672" y2="1456.8672"/><ellipse cx="2972.6808" cy="1467.8672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="60" x="2981.6808" y="1471.0776">stateDao()</text><ellipse cx="2972.6808" cy="1480.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="199" x="2981.6808" y="1483.8823">stateDao() {statesTextFile: String}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="2985.6808" y="1496.687"/><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2969.6808" y="1503.2813"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="100" x="2981.6808" y="1509.4917">loadStates(): void</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2969.6808" y="1516.0859"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="270" x="2981.6808" y="1522.2964">verifyOrderState(): boolean {newOrder: Order}</text><!--MD5=[7f46c1094dadd60c9e776f0b64dbb38c]
+class ProductDao--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="150.4375" id="ProductDao" style="stroke: #A80036; stroke-width: 1.5;" width="306" x="3292.6808" y="1378.4531"/><ellipse cx="3406.9308" cy="1394.4531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M3409.2745,1390.125 C3408.337,1389.6875 3407.7433,1389.5469 3406.8683,1389.5469 C3404.2433,1389.5469 3402.2433,1391.625 3402.2433,1394.3438 L3402.2433,1395.4688 C3402.2433,1398.0469 3404.3526,1399.9375 3407.2433,1399.9375 C3408.462,1399.9375 3409.6183,1399.6406 3410.3683,1399.0938 C3410.9464,1398.6875 3411.2745,1398.2344 3411.2745,1397.8438 C3411.2745,1397.3906 3410.8839,1397 3410.4151,1397 C3410.1964,1397 3409.9933,1397.0781 3409.8058,1397.2656 C3409.3526,1397.75 3409.3526,1397.75 3409.1651,1397.8438 C3408.7433,1398.1094 3408.0558,1398.2344 3407.2901,1398.2344 C3405.2433,1398.2344 3403.9464,1397.1406 3403.9464,1395.4375 L3403.9464,1394.3438 C3403.9464,1392.5625 3405.1964,1391.25 3406.9308,1391.25 C3407.5089,1391.25 3408.1183,1391.4063 3408.587,1391.6563 C3409.0714,1391.9375 3409.2433,1392.1563 3409.337,1392.5625 C3409.3995,1392.9688 3409.4308,1393.0938 3409.5714,1393.2188 C3409.712,1393.3594 3409.9464,1393.4688 3410.1651,1393.4688 C3410.4308,1393.4688 3410.6964,1393.3281 3410.8683,1393.1094 C3410.9776,1392.9531 3411.0089,1392.7656 3411.0089,1392.3438 L3411.0089,1390.9219 C3411.0089,1390.4844 3410.9933,1390.3594 3410.8995,1390.2031 C3410.7433,1389.9375 3410.462,1389.7969 3410.1651,1389.7969 C3409.8683,1389.7969 3409.6651,1389.8906 3409.4464,1390.2031 L3409.2745,1390.125 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="69" x="3427.4308" y="1398.6074">ProductDao</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="3293.6808" x2="3597.6808" y1="1410.4531" y2="1410.4531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3300.6808" y="1418.4531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="212" x="3312.6808" y="1424.6636">products: Map&lt;String, ProductTypes&gt;</text><ellipse cx="3303.6808" cy="1434.2578" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="122" x="3312.6808" y="1437.4683">PRODUCT_FILE: String</text><ellipse cx="3303.6808" cy="1447.0625" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="3312.6808" y="1450.2729">DELIMITER: String</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="3293.6808" x2="3597.6808" y1="1456.8672" y2="1456.8672"/><ellipse cx="3303.6808" cy="1467.8672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="72" x="3312.6808" y="1471.0776">ProductDao()</text><ellipse cx="3303.6808" cy="1480.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="224" x="3312.6808" y="1483.8823">ProductDao() {productsTextFile: String}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="3316.6808" y="1496.687"/><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3300.6808" y="1503.2813"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="110" x="3312.6808" y="1509.4917">loadProducts(): void</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3300.6808" y="1516.0859"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="280" x="3312.6808" y="1522.2964">verifyOrderProduct(): boolean {newOrder: Order}</text><!--MD5=[bf24f98ecebe7042719a1ab47c345a42]
+class FlDao--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="124.8281" id="FlDao" style="stroke: #A80036; stroke-width: 1.5;" width="370" x="3388.6808" y="1030.4531"/><ellipse cx="3552.9308" cy="1046.4531" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M3553.8839,1043.2344 L3555.6026,1043.2344 C3555.9933,1043.2344 3556.1808,1043.2031 3556.3058,1043.125 C3556.5714,1042.9688 3556.712,1042.6875 3556.712,1042.3906 C3556.712,1042.125 3556.6026,1041.8594 3556.3683,1041.6875 C3556.1964,1041.5781 3556.0558,1041.5469 3555.6026,1041.5469 L3550.462,1041.5469 C3550.0245,1041.5469 3549.8995,1041.5625 3549.7433,1041.6563 C3549.4933,1041.8125 3549.337,1042.1094 3549.337,1042.3906 C3549.337,1042.6719 3549.4776,1042.9219 3549.6964,1043.0938 C3549.8526,1043.2031 3550.0401,1043.2344 3550.462,1043.2344 L3552.1808,1043.2344 L3552.1808,1049.75 L3550.462,1049.75 C3550.0245,1049.75 3549.8995,1049.7656 3549.7433,1049.875 C3549.4933,1050.0313 3549.337,1050.3125 3549.337,1050.6094 C3549.337,1050.8594 3549.4776,1051.125 3549.6964,1051.2813 C3549.8526,1051.4063 3550.0558,1051.4531 3550.462,1051.4531 L3555.6026,1051.4531 C3556.3526,1051.4531 3556.712,1051.1719 3556.712,1050.6094 C3556.712,1050.3281 3556.6026,1050.0781 3556.3683,1049.9063 C3556.1964,1049.7813 3556.0558,1049.75 3555.6026,1049.75 L3553.8839,1049.75 L3553.8839,1043.2344 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="33" x="3573.4308" y="1050.6074">FlDao</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="3389.6808" x2="3757.6808" y1="1062.4531" y2="1062.4531"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="3389.6808" x2="3757.6808" y1="1070.4531" y2="1070.4531"/><ellipse cx="3399.6808" cy="1081.4531" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="213" x="3408.6808" y="1084.6636">addOrder(): Order {newOrder: Order}</text><ellipse cx="3399.6808" cy="1094.2578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="316" x="3408.6808" y="1097.4683">removeOrder(): Order {date: LocalDate, orderNum: int}</text><ellipse cx="3399.6808" cy="1107.0625" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="290" x="3408.6808" y="1110.2729">getOrder(): Order {date: LocalDate, orderNum: int}</text><ellipse cx="3399.6808" cy="1119.8672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="344" x="3408.6808" y="1123.0776">getOrdersByDate(): Map&lt;Integer, Order&gt; {date: LocalDate}</text><ellipse cx="3399.6808" cy="1132.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="312" x="3408.6808" y="1135.8823">getAllOrders(): Map&lt;LocalDate, Map&lt;Integer, Order&gt;&gt;</text><ellipse cx="3399.6808" cy="1145.4766" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="114" x="3408.6808" y="1148.687">exportOrders(): void</text><!--MD5=[103f1eb4d131e090544fb667be34cb5a]
+class FlDaoImpl--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="291.2891" id="FlDaoImpl" style="stroke: #A80036; stroke-width: 1.5;" width="370" x="3633.6808" y="1307.9531"/><ellipse cx="3784.9308" cy="1323.9531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M3787.2745,1319.625 C3786.337,1319.1875 3785.7433,1319.0469 3784.8683,1319.0469 C3782.2433,1319.0469 3780.2433,1321.125 3780.2433,1323.8438 L3780.2433,1324.9688 C3780.2433,1327.5469 3782.3526,1329.4375 3785.2433,1329.4375 C3786.462,1329.4375 3787.6183,1329.1406 3788.3683,1328.5938 C3788.9464,1328.1875 3789.2745,1327.7344 3789.2745,1327.3438 C3789.2745,1326.8906 3788.8839,1326.5 3788.4151,1326.5 C3788.1964,1326.5 3787.9933,1326.5781 3787.8058,1326.7656 C3787.3526,1327.25 3787.3526,1327.25 3787.1651,1327.3438 C3786.7433,1327.6094 3786.0558,1327.7344 3785.2901,1327.7344 C3783.2433,1327.7344 3781.9464,1326.6406 3781.9464,1324.9375 L3781.9464,1323.8438 C3781.9464,1322.0625 3783.1964,1320.75 3784.9308,1320.75 C3785.5089,1320.75 3786.1183,1320.9063 3786.587,1321.1563 C3787.0714,1321.4375 3787.2433,1321.6563 3787.337,1322.0625 C3787.3995,1322.4688 3787.4308,1322.5938 3787.5714,1322.7188 C3787.712,1322.8594 3787.9464,1322.9688 3788.1651,1322.9688 C3788.4308,1322.9688 3788.6964,1322.8281 3788.8683,1322.6094 C3788.9776,1322.4531 3789.0089,1322.2656 3789.0089,1321.8438 L3789.0089,1320.4219 C3789.0089,1319.9844 3788.9933,1319.8594 3788.8995,1319.7031 C3788.7433,1319.4375 3788.462,1319.2969 3788.1651,1319.2969 C3787.8683,1319.2969 3787.6651,1319.3906 3787.4464,1319.7031 L3787.2745,1319.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="59" x="3805.4308" y="1328.1074">FlDaoImpl</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="3634.6808" x2="4002.6808" y1="1339.9531" y2="1339.9531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3641.6808" y="1347.9531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="269" x="3653.6808" y="1354.1636">orders: Map&lt;LocalDate, Map&lt;Integer, Order&gt;&gt;</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3641.6808" y="1360.7578"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96" x="3653.6808" y="1366.9683">states: StateDao</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3641.6808" y="1373.5625"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="112" x="3653.6808" y="1379.7729">Product: ProductDao</text><ellipse cx="3644.6808" cy="1389.3672" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="107" x="3653.6808" y="1392.5776">ORDER_FILE: String</text><ellipse cx="3644.6808" cy="1402.1719" fill="none" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="3653.6808" y="1405.3823">DELIMITER: String</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="3634.6808" x2="4002.6808" y1="1411.9766" y2="1411.9766"/><ellipse cx="3644.6808" cy="1422.9766" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="64" x="3653.6808" y="1426.187">FlDaoImpl()</text><ellipse cx="3644.6808" cy="1435.7813" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="204" x="3653.6808" y="1438.9917">FlDaoImpl() {ordersTextFile: String}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="3657.6808" y="1451.7964"/><ellipse cx="3644.6808" cy="1461.3906" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="213" x="3653.6808" y="1464.6011">addOrder(): Order {newOrder: Order}</text><ellipse cx="3644.6808" cy="1474.1953" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="316" x="3653.6808" y="1477.4058">removeOrder(): Order {date: LocalDate, orderNum: int}</text><ellipse cx="3644.6808" cy="1487" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="290" x="3653.6808" y="1490.2104">getOrder(): Order {date: LocalDate, orderNum: int}</text><ellipse cx="3644.6808" cy="1499.8047" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="344" x="3653.6808" y="1503.0151">getOrdersByDate(): Map&lt;Integer, Order&gt; {date: LocalDate}</text><ellipse cx="3644.6808" cy="1512.6094" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="312" x="3653.6808" y="1515.8198">getAllOrders(): Map&lt;LocalDate, Map&lt;Integer, Order&gt;&gt;</text><ellipse cx="3644.6808" cy="1525.4141" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="114" x="3653.6808" y="1528.6245">exportOrders(): void</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="3657.6808" y="1541.4292"/><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3641.6808" y="1548.0234"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="225" x="3653.6808" y="1554.2339">marshallOrder(): String {anOrder: Item}</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3641.6808" y="1560.8281"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="263" x="3653.6808" y="1567.0386">unmarshallOrder(): Item {orderAsText: String}</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3641.6808" y="1573.6328"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="115" x="3653.6808" y="1579.8433">loadAllOrders(): void</text><rect fill="#F24D5C" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="3641.6808" y="1586.4375"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="119" x="3653.6808" y="1592.6479">writeAllOrders(): void</text><!--MD5=[34bd2c1ec88f19926ae8382bc8ca41d9]
+class FlAuditDao--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="60.8047" id="FlAuditDao" style="stroke: #A80036; stroke-width: 1.5;" width="239" x="3114.1808" y="1062.4531"/><ellipse cx="3196.9308" cy="1078.4531" fill="#B4A7E5" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M3197.8839,1075.2344 L3199.6026,1075.2344 C3199.9933,1075.2344 3200.1808,1075.2031 3200.3058,1075.125 C3200.5714,1074.9688 3200.712,1074.6875 3200.712,1074.3906 C3200.712,1074.125 3200.6026,1073.8594 3200.3683,1073.6875 C3200.1964,1073.5781 3200.0558,1073.5469 3199.6026,1073.5469 L3194.462,1073.5469 C3194.0245,1073.5469 3193.8995,1073.5625 3193.7433,1073.6563 C3193.4933,1073.8125 3193.337,1074.1094 3193.337,1074.3906 C3193.337,1074.6719 3193.4776,1074.9219 3193.6964,1075.0938 C3193.8526,1075.2031 3194.0401,1075.2344 3194.462,1075.2344 L3196.1808,1075.2344 L3196.1808,1081.75 L3194.462,1081.75 C3194.0245,1081.75 3193.8995,1081.7656 3193.7433,1081.875 C3193.4933,1082.0313 3193.337,1082.3125 3193.337,1082.6094 C3193.337,1082.8594 3193.4776,1083.125 3193.6964,1083.2813 C3193.8526,1083.4063 3194.0558,1083.4531 3194.462,1083.4531 L3199.6026,1083.4531 C3200.3526,1083.4531 3200.712,1083.1719 3200.712,1082.6094 C3200.712,1082.3281 3200.6026,1082.0781 3200.3683,1081.9063 C3200.1964,1081.7813 3200.0558,1081.75 3199.6026,1081.75 L3197.8839,1081.75 L3197.8839,1075.2344 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="65" x="3217.4308" y="1082.6074">FlAuditDao</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="3115.1808" x2="3352.1808" y1="1094.4531" y2="1094.4531"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="3115.1808" x2="3352.1808" y1="1102.4531" y2="1102.4531"/><ellipse cx="3125.1808" cy="1113.4531" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="213" x="3134.1808" y="1116.6636">writeAuditEntry(): void {entry: String}</text><!--MD5=[d6be2820f2e5e090ebc640698dde4d78]
+class FlAuditDaoImpl--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="73.6094" id="FlAuditDaoImpl" style="stroke: #A80036; stroke-width: 1.5;" width="239" x="2687.1808" y="1416.4531"/><ellipse cx="2757.9308" cy="1432.4531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M2760.2745,1428.125 C2759.337,1427.6875 2758.7433,1427.5469 2757.8683,1427.5469 C2755.2433,1427.5469 2753.2433,1429.625 2753.2433,1432.3438 L2753.2433,1433.4688 C2753.2433,1436.0469 2755.3526,1437.9375 2758.2433,1437.9375 C2759.462,1437.9375 2760.6183,1437.6406 2761.3683,1437.0938 C2761.9464,1436.6875 2762.2745,1436.2344 2762.2745,1435.8438 C2762.2745,1435.3906 2761.8839,1435 2761.4151,1435 C2761.1964,1435 2760.9933,1435.0781 2760.8058,1435.2656 C2760.3526,1435.75 2760.3526,1435.75 2760.1651,1435.8438 C2759.7433,1436.1094 2759.0558,1436.2344 2758.2901,1436.2344 C2756.2433,1436.2344 2754.9464,1435.1406 2754.9464,1433.4375 L2754.9464,1432.3438 C2754.9464,1430.5625 2756.1964,1429.25 2757.9308,1429.25 C2758.5089,1429.25 2759.1183,1429.4063 2759.587,1429.6563 C2760.0714,1429.9375 2760.2433,1430.1563 2760.337,1430.5625 C2760.3995,1430.9688 2760.4308,1431.0938 2760.5714,1431.2188 C2760.712,1431.3594 2760.9464,1431.4688 2761.1651,1431.4688 C2761.4308,1431.4688 2761.6964,1431.3281 2761.8683,1431.1094 C2761.9776,1430.9531 2762.0089,1430.7656 2762.0089,1430.3438 L2762.0089,1428.9219 C2762.0089,1428.4844 2761.9933,1428.3594 2761.8995,1428.2031 C2761.7433,1427.9375 2761.462,1427.7969 2761.1651,1427.7969 C2760.8683,1427.7969 2760.6651,1427.8906 2760.4464,1428.2031 L2760.2745,1428.125 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="89" x="2778.4308" y="1436.6074">FlAuditDaoImpl</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2688.1808" x2="2925.1808" y1="1448.4531" y2="1448.4531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2695.1808" y="1456.4531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="103" x="2707.1808" y="1462.6636">AUDIT_FILE: String</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2688.1808" x2="2925.1808" y1="1469.2578" y2="1469.2578"/><ellipse cx="2698.1808" cy="1480.2578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="213" x="2707.1808" y="1483.4683">writeAuditEntry(): void {entry: String}</text><!--MD5=[80c6168956746d7d6c81a56585da6d58]
+class OrderPersistenceException--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="79.5469" id="OrderPersistenceException" style="stroke: #A80036; stroke-width: 1.5;" width="392" x="2686.6808" y="1052.9531"/><ellipse cx="2795.9308" cy="1071.9219" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M2798.2745,1067.5938 C2797.337,1067.1563 2796.7433,1067.0156 2795.8683,1067.0156 C2793.2433,1067.0156 2791.2433,1069.0938 2791.2433,1071.8125 L2791.2433,1072.9375 C2791.2433,1075.5156 2793.3526,1077.4063 2796.2433,1077.4063 C2797.462,1077.4063 2798.6183,1077.1094 2799.3683,1076.5625 C2799.9464,1076.1563 2800.2745,1075.7031 2800.2745,1075.3125 C2800.2745,1074.8594 2799.8839,1074.4688 2799.4151,1074.4688 C2799.1964,1074.4688 2798.9933,1074.5469 2798.8058,1074.7344 C2798.3526,1075.2188 2798.3526,1075.2188 2798.1651,1075.3125 C2797.7433,1075.5781 2797.0558,1075.7031 2796.2901,1075.7031 C2794.2433,1075.7031 2792.9464,1074.6094 2792.9464,1072.9063 L2792.9464,1071.8125 C2792.9464,1070.0313 2794.1964,1068.7188 2795.9308,1068.7188 C2796.5089,1068.7188 2797.1183,1068.875 2797.587,1069.125 C2798.0714,1069.4063 2798.2433,1069.625 2798.337,1070.0313 C2798.3995,1070.4375 2798.4308,1070.5625 2798.5714,1070.6875 C2798.712,1070.8281 2798.9464,1070.9375 2799.1651,1070.9375 C2799.4308,1070.9375 2799.6964,1070.7969 2799.8683,1070.5781 C2799.9776,1070.4219 2800.0089,1070.2344 2800.0089,1069.8125 L2800.0089,1068.3906 C2800.0089,1067.9531 2799.9933,1067.8281 2799.8995,1067.6719 C2799.7433,1067.4063 2799.462,1067.2656 2799.1651,1067.2656 C2798.8683,1067.2656 2798.6651,1067.3594 2798.4464,1067.6719 L2798.2745,1067.5938 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="2861.9308" y="1069.0918">«Exception»</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="165" x="2816.4308" y="1083.0605">OrderPersistenceException</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2687.6808" x2="3077.6808" y1="1090.8906" y2="1090.8906"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="2687.6808" x2="3077.6808" y1="1098.8906" y2="1098.8906"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="273" x="2692.6808" y="1113.1011">OrderPersistenceException() {message: String}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="380" x="2692.6808" y="1125.9058">OrderPersistenceException() {message: String, cause: Throwable}</text><!--MD5=[df9b45735db5e24006a80da0c6e3a50b]
+class ProductTypes--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="150.4375" id="ProductTypes" style="stroke: #A80036; stroke-width: 1.5;" width="559" x="4683.1808" y="1378.4531"/><ellipse cx="4917.4308" cy="1394.4531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M4919.7745,1390.125 C4918.837,1389.6875 4918.2433,1389.5469 4917.3683,1389.5469 C4914.7433,1389.5469 4912.7433,1391.625 4912.7433,1394.3438 L4912.7433,1395.4688 C4912.7433,1398.0469 4914.8526,1399.9375 4917.7433,1399.9375 C4918.962,1399.9375 4920.1183,1399.6406 4920.8683,1399.0938 C4921.4464,1398.6875 4921.7745,1398.2344 4921.7745,1397.8438 C4921.7745,1397.3906 4921.3839,1397 4920.9151,1397 C4920.6964,1397 4920.4933,1397.0781 4920.3058,1397.2656 C4919.8526,1397.75 4919.8526,1397.75 4919.6651,1397.8438 C4919.2433,1398.1094 4918.5558,1398.2344 4917.7901,1398.2344 C4915.7433,1398.2344 4914.4464,1397.1406 4914.4464,1395.4375 L4914.4464,1394.3438 C4914.4464,1392.5625 4915.6964,1391.25 4917.4308,1391.25 C4918.0089,1391.25 4918.6183,1391.4063 4919.087,1391.6563 C4919.5714,1391.9375 4919.7433,1392.1563 4919.837,1392.5625 C4919.8995,1392.9688 4919.9308,1393.0938 4920.0714,1393.2188 C4920.212,1393.3594 4920.4464,1393.4688 4920.6651,1393.4688 C4920.9308,1393.4688 4921.1964,1393.3281 4921.3683,1393.1094 C4921.4776,1392.9531 4921.5089,1392.7656 4921.5089,1392.3438 L4921.5089,1390.9219 C4921.5089,1390.4844 4921.4933,1390.3594 4921.3995,1390.2031 C4921.2433,1389.9375 4920.962,1389.7969 4920.6651,1389.7969 C4920.3683,1389.7969 4920.1651,1389.8906 4919.9464,1390.2031 L4919.7745,1390.125 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="82" x="4937.9308" y="1398.6074">ProductTypes</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="4684.1808" x2="5241.1808" y1="1410.4531" y2="1410.4531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4691.1808" y="1418.4531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="111" x="4703.1808" y="1424.6636">productType: String</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4691.1808" y="1431.2578"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="138" x="4703.1808" y="1437.4683">costPerSqFt: BigDecimal</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4691.1808" y="1444.0625"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="168" x="4703.1808" y="1450.2729">laborCostPerSqFt: BigDecimal</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="4684.1808" x2="5241.1808" y1="1456.8672" y2="1456.8672"/><ellipse cx="4694.1808" cy="1467.8672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="533" x="4703.1808" y="1471.0776">ProductTypes() {productType: String, costPerSqFt: BigDecimal, laborCostPerSqFt: BigDecimal}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="4707.1808" y="1483.8823"/><ellipse cx="4694.1808" cy="1493.4766" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="137" x="4703.1808" y="1496.687">getProductType(): String</text><ellipse cx="4694.1808" cy="1506.2813" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="167" x="4703.1808" y="1509.4917">getCostPerSqFt(): BigDecimal</text><ellipse cx="4694.1808" cy="1519.0859" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="198" x="4703.1808" y="1522.2964">getLaborCostPerSqFt(): BigDecimal</text><!--MD5=[60d6b92408f98aed8df94d5c6e04aa63]
+class State--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="150.4375" id="State" style="stroke: #A80036; stroke-width: 1.5;" width="457" x="5277.1808" y="1378.4531"/><ellipse cx="5485.9308" cy="1394.4531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M5488.2745,1390.125 C5487.337,1389.6875 5486.7433,1389.5469 5485.8683,1389.5469 C5483.2433,1389.5469 5481.2433,1391.625 5481.2433,1394.3438 L5481.2433,1395.4688 C5481.2433,1398.0469 5483.3526,1399.9375 5486.2433,1399.9375 C5487.462,1399.9375 5488.6183,1399.6406 5489.3683,1399.0938 C5489.9464,1398.6875 5490.2745,1398.2344 5490.2745,1397.8438 C5490.2745,1397.3906 5489.8839,1397 5489.4151,1397 C5489.1964,1397 5488.9933,1397.0781 5488.8058,1397.2656 C5488.3526,1397.75 5488.3526,1397.75 5488.1651,1397.8438 C5487.7433,1398.1094 5487.0558,1398.2344 5486.2901,1398.2344 C5484.2433,1398.2344 5482.9464,1397.1406 5482.9464,1395.4375 L5482.9464,1394.3438 C5482.9464,1392.5625 5484.1964,1391.25 5485.9308,1391.25 C5486.5089,1391.25 5487.1183,1391.4063 5487.587,1391.6563 C5488.0714,1391.9375 5488.2433,1392.1563 5488.337,1392.5625 C5488.3995,1392.9688 5488.4308,1393.0938 5488.5714,1393.2188 C5488.712,1393.3594 5488.9464,1393.4688 5489.1651,1393.4688 C5489.4308,1393.4688 5489.6964,1393.3281 5489.8683,1393.1094 C5489.9776,1392.9531 5490.0089,1392.7656 5490.0089,1392.3438 L5490.0089,1390.9219 C5490.0089,1390.4844 5489.9933,1390.3594 5489.8995,1390.2031 C5489.7433,1389.9375 5489.462,1389.7969 5489.1651,1389.7969 C5488.8683,1389.7969 5488.6651,1389.8906 5488.4464,1390.2031 L5488.2745,1390.125 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="31" x="5506.4308" y="1398.6074">State</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="5278.1808" x2="5733.1808" y1="1410.4531" y2="1410.4531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="5285.1808" y="1418.4531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="141" x="5297.1808" y="1424.6636">stateAbbreviation: String</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="5285.1808" y="1431.2578"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="103" x="5297.1808" y="1437.4683">stateName: String</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="5285.1808" y="1444.0625"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="116" x="5297.1808" y="1450.2729">taxRate: BigDecimal</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="5278.1808" x2="5733.1808" y1="1456.8672" y2="1456.8672"/><ellipse cx="5288.1808" cy="1467.8672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="431" x="5297.1808" y="1471.0776">State() {stateAbbreviation: String, stateName: String, taxRate: BigDecimal}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="5301.1808" y="1483.8823"/><ellipse cx="5288.1808" cy="1493.4766" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="170" x="5297.1808" y="1496.687">getStateAbbreviation(): String</text><ellipse cx="5288.1808" cy="1506.2813" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="132" x="5297.1808" y="1509.4917">getStateName(): String</text><ellipse cx="5288.1808" cy="1519.0859" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="146" x="5297.1808" y="1522.2964">getTaxRate(): BigDecimal</text><!--MD5=[cf4d6237fcae255cd2e1656cf84a30e2]
+class Order--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="572.9922" id="Order" style="stroke: #A80036; stroke-width: 1.5;" width="1710" x="4107.6808" y="1677.9531"/><ellipse cx="4940.4308" cy="1693.9531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M4942.7745,1689.625 C4941.837,1689.1875 4941.2433,1689.0469 4940.3683,1689.0469 C4937.7433,1689.0469 4935.7433,1691.125 4935.7433,1693.8438 L4935.7433,1694.9688 C4935.7433,1697.5469 4937.8526,1699.4375 4940.7433,1699.4375 C4941.962,1699.4375 4943.1183,1699.1406 4943.8683,1698.5938 C4944.4464,1698.1875 4944.7745,1697.7344 4944.7745,1697.3438 C4944.7745,1696.8906 4944.3839,1696.5 4943.9151,1696.5 C4943.6964,1696.5 4943.4933,1696.5781 4943.3058,1696.7656 C4942.8526,1697.25 4942.8526,1697.25 4942.6651,1697.3438 C4942.2433,1697.6094 4941.5558,1697.7344 4940.7901,1697.7344 C4938.7433,1697.7344 4937.4464,1696.6406 4937.4464,1694.9375 L4937.4464,1693.8438 C4937.4464,1692.0625 4938.6964,1690.75 4940.4308,1690.75 C4941.0089,1690.75 4941.6183,1690.9063 4942.087,1691.1563 C4942.5714,1691.4375 4942.7433,1691.6563 4942.837,1692.0625 C4942.8995,1692.4688 4942.9308,1692.5938 4943.0714,1692.7188 C4943.212,1692.8594 4943.4464,1692.9688 4943.6651,1692.9688 C4943.9308,1692.9688 4944.1964,1692.8281 4944.3683,1692.6094 C4944.4776,1692.4531 4944.5089,1692.2656 4944.5089,1691.8438 L4944.5089,1690.4219 C4944.5089,1689.9844 4944.4933,1689.8594 4944.3995,1689.7031 C4944.2433,1689.4375 4943.962,1689.2969 4943.6651,1689.2969 C4943.3683,1689.2969 4943.1651,1689.3906 4942.9464,1689.7031 L4942.7745,1689.625 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="36" x="4960.9308" y="1698.1074">Order</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="4108.6808" x2="5816.6808" y1="1709.9531" y2="1709.9531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1717.9531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="122" x="4127.6808" y="1724.1636">orderDate: LocalDate</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1730.7578"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96" x="4127.6808" y="1736.9683">orderNumber: int</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1743.5625"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="127" x="4127.6808" y="1749.7729">customerName: String</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1756.3672"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="67" x="4127.6808" y="1762.5776">state: State</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1769.1719"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="116" x="4127.6808" y="1775.3823">taxRate: BigDecimal</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1781.9766"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="154" x="4127.6808" y="1788.187">productType: ProductTypes</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1794.7813"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="98" x="4127.6808" y="1800.9917">area: BigDecimal</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1807.5859"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="138" x="4127.6808" y="1813.7964">costPerSqFt: BigDecimal</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1820.3906"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="168" x="4127.6808" y="1826.6011">laborCostPerSqFt: BigDecimal</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1833.1953"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="144" x="4127.6808" y="1839.4058">materialCost: BigDecimal</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1846"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="125" x="4127.6808" y="1852.2104">laborCost: BigDecimal</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1858.8047"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="90" x="4127.6808" y="1865.0151">tax: BigDecimal</text><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="4115.6808" y="1871.6094"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="97" x="4127.6808" y="1877.8198">total: BigDecimal</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="4108.6808" x2="5816.6808" y1="1884.4141" y2="1884.4141"/><ellipse cx="4118.6808" cy="1895.4141" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="654" x="4127.6808" y="1898.6245">Order() {orderDate: LocalDate, customerName: String, state: State, productType: ProductTypes, area: BigDecimal}</text><ellipse cx="4118.6808" cy="1908.2188" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="1684" x="4127.6808" y="1911.4292">Order() {orderDate: LocalDate, orderNumber: int, customerName: String, state: State, taxRate: BigDecimal, productType: ProductTypes, area: BigDecimal, costPerSqFt: BigDecimal, laborCostPerSqFt: BigDecimal, materialCost: BigDecimal, laborCost: BigDecimal, tax: BigDecimal, total: BigDecimal}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="4131.6808" y="1924.2339"/><ellipse cx="4118.6808" cy="1933.8281" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="151" x="4127.6808" y="1937.0386">getOrderDate(): LocalDate</text><ellipse cx="4118.6808" cy="1946.6328" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="125" x="4127.6808" y="1949.8433">getOrderNumber(): int</text><ellipse cx="4118.6808" cy="1959.4375" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="156" x="4127.6808" y="1962.6479">getCustomerName(): String</text><ellipse cx="4118.6808" cy="1972.2422" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="96" x="4127.6808" y="1975.4526">getState(): State</text><ellipse cx="4118.6808" cy="1985.0469" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="146" x="4127.6808" y="1988.2573">getTaxRate(): BigDecimal</text><ellipse cx="4118.6808" cy="1997.8516" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="180" x="4127.6808" y="2001.062">getProductType(): ProductTypes</text><ellipse cx="4118.6808" cy="2010.6563" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="126" x="4127.6808" y="2013.8667">getArea(): BigDecimal</text><ellipse cx="4118.6808" cy="2023.4609" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="167" x="4127.6808" y="2026.6714">getCostPerSqFt(): BigDecimal</text><ellipse cx="4118.6808" cy="2036.2656" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="198" x="4127.6808" y="2039.4761">getLaborCostPerSqFt(): BigDecimal</text><ellipse cx="4118.6808" cy="2049.0703" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="169" x="4127.6808" y="2052.2808">getMaterialCost(): BigDecimal</text><ellipse cx="4118.6808" cy="2061.875" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="155" x="4127.6808" y="2065.0854">getLaborCost(): BigDecimal</text><ellipse cx="4118.6808" cy="2074.6797" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="120" x="4127.6808" y="2077.8901">getTax(): BigDecimal</text><ellipse cx="4118.6808" cy="2087.4844" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="127" x="4127.6808" y="2090.6948">getTotal(): BigDecimal</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="4131.6808" y="2103.4995"/><ellipse cx="4118.6808" cy="2113.0938" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="291" x="4127.6808" y="2116.3042">setCustomerName(): void {customerName: String}</text><ellipse cx="4118.6808" cy="2125.8984" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="173" x="4127.6808" y="2129.1089">setState(): void {state: State}</text><ellipse cx="4118.6808" cy="2138.7031" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="305" x="4127.6808" y="2141.9136">setProductType(): void {productTypes: ProductTypes}</text><ellipse cx="4118.6808" cy="2151.5078" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="200" x="4127.6808" y="2154.7183">setArea(): void {area: BigDecimal}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="4131.6808" y="2167.5229"/><ellipse cx="4118.6808" cy="2177.1172" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="281" x="4127.6808" y="2180.3276">setCostPerSqFt(): void {costPerSqFt: BigDecimal}</text><ellipse cx="4118.6808" cy="2189.9219" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="342" x="4127.6808" y="2193.1323">setLaborCostPerSqFt(): void {laborCostPerSqFt: BigDecimal}</text><ellipse cx="4118.6808" cy="2202.7266" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="289" x="4127.6808" y="2205.937">setMaterialCost(): void {materialCost: BigDecimal}</text><ellipse cx="4118.6808" cy="2215.5313" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="256" x="4127.6808" y="2218.7417">setLaborCost(): void {laborCost: BigDecimal}</text><ellipse cx="4118.6808" cy="2228.3359" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="186" x="4127.6808" y="2231.5464">setTax(): void {tax: BigDecimal}</text><ellipse cx="4118.6808" cy="2241.1406" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="200" x="4127.6808" y="2244.3511">setTotal(): void {total: BigDecimal}</text><!--MD5=[1d4d70bfe593a9990954c191044cc914]
+class LoggingAdvice--><rect fill="#FEFECE" filter="url(#fjn4qjw2dbhgd)" height="112.0234" id="LoggingAdvice" style="stroke: #A80036; stroke-width: 1.5;" width="283" x="2706.1808" y="598.4531"/><ellipse cx="2798.9308" cy="614.4531" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M2801.2745,610.125 C2800.337,609.6875 2799.7433,609.5469 2798.8683,609.5469 C2796.2433,609.5469 2794.2433,611.625 2794.2433,614.3438 L2794.2433,615.4688 C2794.2433,618.0469 2796.3526,619.9375 2799.2433,619.9375 C2800.462,619.9375 2801.6183,619.6406 2802.3683,619.0938 C2802.9464,618.6875 2803.2745,618.2344 2803.2745,617.8438 C2803.2745,617.3906 2802.8839,617 2802.4151,617 C2802.1964,617 2801.9933,617.0781 2801.8058,617.2656 C2801.3526,617.75 2801.3526,617.75 2801.1651,617.8438 C2800.7433,618.1094 2800.0558,618.2344 2799.2901,618.2344 C2797.2433,618.2344 2795.9464,617.1406 2795.9464,615.4375 L2795.9464,614.3438 C2795.9464,612.5625 2797.1964,611.25 2798.9308,611.25 C2799.5089,611.25 2800.1183,611.4063 2800.587,611.6563 C2801.0714,611.9375 2801.2433,612.1563 2801.337,612.5625 C2801.3995,612.9688 2801.4308,613.0938 2801.5714,613.2188 C2801.712,613.3594 2801.9464,613.4688 2802.1651,613.4688 C2802.4308,613.4688 2802.6964,613.3281 2802.8683,613.1094 C2802.9776,612.9531 2803.0089,612.7656 2803.0089,612.3438 L2803.0089,610.9219 C2803.0089,610.4844 2802.9933,610.3594 2802.8995,610.2031 C2802.7433,609.9375 2802.462,609.7969 2802.1651,609.7969 C2801.8683,609.7969 2801.6651,609.8906 2801.4464,610.2031 L2801.2745,610.125 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="89" x="2819.4308" y="618.6074">LoggingAdvice</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2707.1808" x2="2988.1808" y1="630.4531" y2="630.4531"/><rect fill="none" height="6" style="stroke: #C82930; stroke-width: 1.0;" width="6" x="2714.1808" y="638.4531"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="119" x="2726.1808" y="644.6636">auditDao: FlAuditDao</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="2707.1808" x2="2988.1808" y1="651.2578" y2="651.2578"/><ellipse cx="2717.1808" cy="662.2578" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="228" x="2726.1808" y="665.4683">LoggingAdvice() {auditDao: FlAuditDao}</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="0" x="2730.1808" y="678.2729"/><ellipse cx="2717.1808" cy="687.8672" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="216" x="2726.1808" y="691.0776">createAuditEntry(): void {jp: JoinPoint}</text><ellipse cx="2717.1808" cy="700.6719" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="257" x="2726.1808" y="703.8823">createExceptionEntry(): void {ex: Exception}</text><!--MD5=[02cafccb81f4253a5cd14ce7aa066626]
+reverse link UserIO to UserIOImpl--><path d="M653.6808,762.6831 C653.6808,834.8631 653.6808,929.1331 653.6808,998.2931 " fill="none" id="UserIO&lt;-UserIOImpl" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="646.6808,762.4731,653.6808,742.4731,660.6808,762.4731,646.6808,762.4731" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="76" x="654.6808" y="939.02">implements</text><!--MD5=[4979f3cd87ca13a11983fa615e3e20fa]
+reverse link FlService to FlServiceImpl--><path d="M1125.6808,731.1631 C1125.6808,797.6631 1125.6808,895.5531 1125.6808,972.6031 " fill="none" id="FlService&lt;-FlServiceImpl" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="1118.6808,730.7331,1125.6808,710.7331,1132.6808,730.7331,1118.6808,730.7331" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="76" x="1126.6808" y="939.02">implements</text><!--MD5=[03ef0a23888108cfda9a3f102b2de122]
+reverse link FlDao to FlDaoImpl--><path d="M3627.1908,1172.2631 C3654.3608,1212.0131 3688.2408,1261.5831 3719.9207,1307.9401 " fill="none" id="FlDao&lt;-FlDaoImpl" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="3621.3008,1176.0431,3615.8008,1155.5831,3632.8608,1168.1431,3621.3008,1176.0431" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="76" x="3697.6808" y="1274.02">implements</text><!--MD5=[e132cbb47f76210a4da589bc44a652e8]
+reverse link FlDao to StateDao--><path d="M3490.0108,1163.9031 C3454.1508,1192.7131 3411.2408,1225.6531 3370.6808,1252.9531 C3329.8808,1280.4031 3314.7108,1279.3931 3274.6808,1307.9531 C3245.0808,1329.0751 3214.6008,1354.5471 3188.0208,1378.1851 " fill="none" id="FlDao&lt;-StateDao" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="3500.4108,1155.5031,3493.2288,1156.1512,3491.0648,1163.03,3498.2467,1162.3819,3500.4108,1155.5031" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[6623054cf6e8a8e279e7e67dd8b6fd02]
+reverse link FlDao to ProductDao--><path d="M3547.2708,1167.9231 C3525.2908,1229.4831 3494.1508,1316.7011 3472.1508,1378.3081 " fill="none" id="FlDao&lt;-ProductDao" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="3551.6808,1155.5831,3545.8961,1159.8887,3547.6455,1166.8843,3553.4302,1162.5788,3551.6808,1155.5831" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[87315a9ff7175b83c75177a233549db2]
+reverse link FlAuditDao to FlAuditDaoImpl--><path d="M3203.4308,1140.1731 C3178.3008,1175.3731 3139.6308,1222.7831 3095.6808,1252.9531 C3036.4508,1293.6131 3003.7908,1268.6031 2943.6808,1307.9531 C2898.8508,1337.3001 2858.0808,1384.0821 2832.8908,1416.4281 " fill="none" id="FlAuditDao&lt;-FlAuditDaoImpl" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="3197.8308,1135.9631,3214.9808,1123.5131,3209.3408,1143.9331,3197.8308,1135.9631" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="76" x="3083.6808" y="1274.02">implements</text><!--MD5=[cd9a40d1b8a4f5f5146987f2203fe3cf]
+reverse link controller to view--><path d="M2605.8441,184.7019 C2600.6699,184.8505 2593.279,185.0643 2583.8164,185.3424 C2564.8912,185.8986 2537.6794,186.7116 2503.342,187.7726 C2434.6672,189.8945 2337.4904,193.0084 2221.1012,197.0438 C1988.3227,205.1144 1678.6942,216.8706 1366.5319,231.7481 C742.2072,261.5031 107.7473,303.7431 57.6808,353.9531 C11.327,400.4381 6,473.7181 12.5432,536.1556 C15.8148,567.3744 22.0539,595.8825 27.616,616.9753 C28.3113,619.6119 28.9959,622.1327 29.6629,624.5283 C29.9964,625.7262 30.3255,626.8928 30.6493,628.0269 " fill="none" id="controller&lt;-view" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="2605.8441,184.7019,2599.7317,180.8757,2593.849,185.0463,2599.9613,188.8724,2605.8441,184.7019" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ae689a5002c8ea34655b8ae994a112a4]
+reverse link controller to service--><path d="M2614.6808,321.5785 C2614.6808,322.4073 2614.6808,323.238 2614.6808,324.0707 C2614.6808,327.4013 2614.6808,330.7626 2614.6808,334.1512 C2614.6808,361.2603 2614.6808,390.1169 2614.6808,418.9731 C2614.6808,447.8294 2614.6808,476.6853 2614.6808,503.7931 C2614.6808,517.347 2614.6808,530.4639 2614.6808,542.9253 C2614.6808,546.0406 2614.6808,549.115 2614.6808,552.145 C2614.6808,552.9025 2614.6808,553.6572 2614.6808,554.4091 " fill="none" id="controller&lt;-service" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="2614.6808,321.5785,2610.6808,327.5785,2614.6808,333.5785,2618.6808,327.5785,2614.6808,321.5785" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f5a2981f44b82fdb6550dbcab878a71d]
+reverse link service to dao--><path d="M2622.8536,851.1724 C2623.021,851.5477 2623.1898,851.9222 2623.36,852.2959 C2624.0408,853.7909 2624.7438,855.2737 2625.4696,856.7435 C2626.9212,859.683 2628.4642,862.5702 2630.1031,865.3974 C2636.6589,876.7064 2644.7507,887.0556 2654.6808,895.9531 C2880.9408,1098.6831 3803.6808,757.8231 4019.6808,971.4531 C4038.4658,990.0281 4040.6983,1019.5081 4038.1208,1044.6594 C4037.7986,1047.8033 4037.4012,1050.8796 4036.9517,1053.8584 C4036.7269,1055.3479 4036.489,1056.813 4036.241,1058.25 C4036.117,1058.9685 4035.9904,1059.68 4035.8617,1060.384 C4035.8295,1060.56 4035.7972,1060.7356 4035.7647,1060.9106 " fill="none" id="service&lt;-dao" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="2622.8536,851.1724,2621.6455,858.2816,2627.7431,862.1311,2628.9512,855.0219,2622.8536,851.1724" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ea105b12f4d69e2565185088b98a846e]
+reverse link dao to model--><path d="M4035.7176,1145.4219 C4036.0305,1147.4251 4036.3503,1149.4727 4036.6767,1151.562 C4041.8983,1184.9911 4048.7895,1229.1069 4055.6808,1273.2215 C4062.572,1317.3361 4069.4633,1361.4493 4074.6848,1394.8733 C4075.0112,1396.9623 4075.331,1399.0095 4075.6439,1401.0124 " fill="none" id="dao&lt;-model" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="4035.7176,1145.4219,4032.6915,1151.9673,4037.5695,1157.2781,4040.5957,1150.7327,4035.7176,1145.4219" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[0950a25dcbaf2596145556a5a50ba5eb]
+reverse link controller to advice--><path d="M2627.6103,321.3726 C2627.696,321.6266 2627.7822,321.8803 2627.8688,322.1337 C2628.2155,323.1475 2628.57,324.1568 2628.9325,325.1612 C2630.3828,329.1789 2631.962,333.1188 2633.6808,336.9531 C2635.6108,341.2631 2638.8108,340.6131 2640.6808,344.9531 C2667.5758,407.1931 2675.2633,482.8981 2676.1358,543.7369 C2676.1903,547.5393 2676.2182,551.2836 2676.2225,554.963 " fill="none" id="controller&lt;-advice" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="2627.6103,321.3726,2625.7379,328.3363,2631.4458,332.7431,2633.3182,325.7794,2627.6103,321.3726" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[e7d92207c2c68bb17d9c4eeb39c5377b]
+link InvalidProductTypeException to InvalidStateException--><!--MD5=[c787a23e52994d84e2e8fff5f9a21353]
+link InvalidStateException to InvalidAreaException--><!--MD5=[917421a12572645441191d49824d5ffe]
+link InvalidProductTypeException to InvalidOrderNumberException--><!--MD5=[0fad1c7153f6fd99e7d4e321da8f72a9]
+link InvalidOrderNumberException to NoOrdersOnDateException--><!--MD5=[d4567bb4e38a50f10f1c1248044e8dfd]
+link ProductTypes to State--><!--MD5=[e0c1781999a7cb2616c250d289a199f4]
+link ProductTypes to Order--><!--MD5=[0e010d03c89414dbbab4d01b0a585fd3]
+@startuml
+title M4 Mastery - TSG Flooring Corp
+
+
+package view {
+    interface UserIO{
+        +print(): void {message: String}
+        +readString(): String {prompt: String}
+        +readInt(): int {prompt: String}
+        +readInt(): int {prompt: String, min: int, max: int}
+        +readDouble(): double {prompt: String}
+        +readDouble(): double {prompt: String, min: double, max: double}
+        +readFloat(): float {prompt: String}
+        +readFloat(): float {prompt: String, min: float, max: float}
+        +readLong(): long {prompt: String}
+        +readLong(): long {prompt: String, min: long, max: long}
+    }
+
+    class UserIOImpl{
+        -input: Scanner
+
+        +print(): void {message: String}
+        +readString(): String {prompt: String}
+        +readInt(): int {prompt: String}
+        +readInt(): int {prompt: String, min: int, max: int}
+        +readDouble(): double {prompt: String}
+        +readDouble(): double {prompt: String, min: double, max: double}
+        +readFloat(): float {prompt: String}
+        +readFloat(): float {prompt: String, min: float, max: float}
+        +readLong(): long {prompt: String}
+        +readLong(): long {prompt: String, min: long, max: long}
+    }
+
+    UserIO <|-down- UserIOImpl: implements
+
+    class FlView{
+        -io: UserIO
+
+        +FlView() {io: UserIO}
+
+        +mainMenuAndSelection(): int
+
+        +displayAddOrderBanner(): void
+        +getNewOrderInfo(): Order
+        +displayOrderInfo(): void {anOrder: Order}
+        +displayAddOrderSuccessBanner(): void
+        +displayAddOrderFailBanner(): void
+
+        +displayDisplayOrdersBanner(): void
+        +getOrdersDate(): LocalDate
+        +displayOrdersByDateInfo(): void {Map<Integer, Order>}
+        +displayDisplayOrdersFailBanner(): void
+
+        +displayEditOrderBanner(): void
+        +getEditedOrderInfo(): Order
+        +displayEditOrderSuccessBanner(): void
+        +displayEditOrderFailBanner(): void
+
+        +displayRemoveOrderBanner(): void
+        +getOrderRemovalDate(): LocalDate
+        +getOrderRemovalNum(): int
+        +displayRemoveOrderSuccessBanner(): void
+        +displayRemoveOrderFailBanner(): void
+
+        +displayExportOrderBanner():void
+        +displayExportOrderSuccessBanner(): void
+        +displayExportOrderFailBanner(): void
+        
+        +displayExitBanner(): void
+        +displayUnknownCommandBanner(): void
+        +displayErrorMessage(): void {errorMsg: String}
+    }
+}
+
+package controller {
+    class FlController{
+        -FlService: service
+        -FlView: view
+
+        +FlController() {FlService: service, FlView: view}
+        
+        +run(): void
+        -getMenuSelection(): int
+        +unknownCommand(): void
+        +exitMessage(): void
+
+        +displayOrders(): void
+        -addOrder(): void
+        -editOrder(): void
+        -removeOrder(): void
+        -exportOrders(): void
+    }
+}
+
+package service {
+    interface FlService{
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): Map<Integer, Order> {date: LocalDate}
+        +exportOrders(): void
+    }
+
+    class FlServiceImpl{
+        -dao: FlDao
+        -auditDao: FlAuditDao
+
+        +flServiceImpl() {dao: FlDao, auditDAO: FlAuditDao}
+
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): Map<Integer, Order> {date: LocalDate}
+        +exportOrders(): void
+
+        -validateOrder(): boolean {newOrder: Order}
+        -calcMaterialCost(): BigDecimal {newOrder: Order}
+        -calcLaborCost(): BigDecimal {newOrder: Order}
+        -calcTax(): BigDecimal {newOrder: Order}
+        -calcTotal(): BigDecimal {newOrder: Order}
+    }
+
+    FlService <|-down- FlServiceImpl: implements
+
+    class InvalidProductTypeException <<Exception>>{
+        +InvalidProductTypeException() {message: String}
+        +InvalidProductTypeException() {message: String, cause: Throwable}
+    }
+
+    class InvalidStateException <<Exception>>{
+        +InvalidStateException() {message: String}
+        +InvalidStateException() {message: String, cause: Throwable}
+    }
+
+    class InvalidAreaException <<Exception>>{
+        +InvalidAreaException() {message: String}
+        +InvalidAreaException() {message: String, cause: Throwable}
+    }
+
+    class InvalidOrderNumberException <<Exception>>{
+        +InvalidOrderNumberException() {message: String}
+        +InvalidOrderNumberException() {message: String, cause: Throwable}
+    }
+
+    class NoOrdersOnDateException <<Exception>>{
+        +NoOrdersOnDateException() {message: String}
+        +NoOrdersOnDateException() {message: String, cause: Throwable}
+    }
+
+}
+
+package dao {
+    class StateDao{
+        -states: Map<String, State>
+        +STATES_FILE: String
+        +DELIMITER: String
+
+        +stateDao()
+        +stateDao() {statesTextFile: String}
+
+        -loadStates(): void
+        -verifyOrderState(): boolean {newOrder: Order}
+    }
+    
+    class ProductDao{
+        -products: Map<String, ProductTypes>
+        +PRODUCT_FILE: String
+        +DELIMITER: String
+
+        +ProductDao()
+        +ProductDao() {productsTextFile: String}
+
+        -loadProducts(): void
+        -verifyOrderProduct(): boolean {newOrder: Order}
+    }
+    
+    interface FlDao{
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): Map<Integer, Order> {date: LocalDate}
+        +getAllOrders(): Map<LocalDate, Map<Integer, Order>>
+        +exportOrders(): void
+    }
+
+    'this handles the backup file also
+    class FlDaoImpl{
+        'https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/TreeMap.html
+        -orders: Map<LocalDate, Map<Integer, Order>>
+        -states: StateDao
+        -Product: ProductDao
+        +ORDER_FILE: String
+        +DELIMITER: String
+
+        +FlDaoImpl()
+        +FlDaoImpl() {ordersTextFile: String}
+
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): Map<Integer, Order> {date: LocalDate}
+        +getAllOrders(): Map<LocalDate, Map<Integer, Order>>
+        +exportOrders(): void
+
+        'move to another dao?
+        -marshallOrder(): String {anOrder: Item}
+        -unmarshallOrder(): Item {orderAsText: String}
+        -loadAllOrders(): void
+        -writeAllOrders(): void
+    }
+
+    FlDao <|-down- FlDaoImpl: implements
+    FlDao *-down- StateDao
+    FlDao *-down- ProductDao
+
+    interface FlAuditDao{
+        +writeAuditEntry(): void {entry: String}
+    }
+
+    class FlAuditDaoImpl{
+        -AUDIT_FILE: String
+
+        +writeAuditEntry(): void {entry: String}
+    }
+
+    FlAuditDao <|-down- FlAuditDaoImpl: implements
+
+    class OrderPersistenceException <<Exception>>{
+        OrderPersistenceException() {message: String}
+        OrderPersistenceException() {message: String, cause: Throwable}
+    }
+}
+
+package model {
+    class ProductTypes{
+        -productType: String
+        -costPerSqFt: BigDecimal
+        -laborCostPerSqFt: BigDecimal
+
+        +ProductTypes() {productType: String, costPerSqFt: BigDecimal, laborCostPerSqFt: BigDecimal}
+
+        'read-only
+        +getProductType(): String
+        +getCostPerSqFt(): BigDecimal
+        +getLaborCostPerSqFt(): BigDecimal
+    }
+
+    class State{
+        -stateAbbreviation: String
+        -stateName: String
+        -taxRate: BigDecimal
+
+        +State() {stateAbbreviation: String, stateName: String, taxRate: BigDecimal}
+
+        'read-only
+        +getStateAbbreviation(): String
+        +getStateName(): String
+        +getTaxRate(): BigDecimal
+    }
+    
+    class Order{
+        -orderDate: LocalDate
+        -orderNumber: int
+        -customerName: String
+        -state: State
+        -taxRate: BigDecimal
+        -productType: ProductTypes
+        -area: BigDecimal
+        -costPerSqFt: BigDecimal
+        -laborCostPerSqFt: BigDecimal
+        -materialCost: BigDecimal
+        -laborCost: BigDecimal
+        -tax: BigDecimal
+        -total: BigDecimal
+
+        'ctor for view/user input
+        +Order() {orderDate: LocalDate, customerName: String, state: State, productType: ProductTypes, area: BigDecimal}
+        'ctor for dao
+        +Order() {orderDate: LocalDate, orderNumber: int, customerName: String, state: State, taxRate: BigDecimal, productType: ProductTypes, area: BigDecimal, costPerSqFt: BigDecimal, laborCostPerSqFt: BigDecimal, materialCost: BigDecimal, laborCost: BigDecimal, tax: BigDecimal, total: BigDecimal}
+
+        +getOrderDate(): LocalDate
+        +getOrderNumber(): int
+        +getCustomerName(): String
+        +getState(): State
+        +getTaxRate(): BigDecimal
+        +getProductType(): ProductTypes
+        +getArea(): BigDecimal
+        +getCostPerSqFt(): BigDecimal
+        +getLaborCostPerSqFt(): BigDecimal
+        +getMaterialCost(): BigDecimal
+        +getLaborCost(): BigDecimal
+        +getTax(): BigDecimal
+        +getTotal(): BigDecimal
+
+        'can be set by edit functionality
+        +setCustomerName(): void {customerName: String}
+        +setState(): void {state: State}
+        +setProductType(): void {productTypes: ProductTypes}
+        +setArea(): void {area: BigDecimal}
+
+        'service layer will have to calculate and set these
+        +setCostPerSqFt(): void {costPerSqFt: BigDecimal}
+        +setLaborCostPerSqFt(): void {laborCostPerSqFt: BigDecimal}
+        +setMaterialCost(): void {materialCost: BigDecimal}
+        +setLaborCost(): void {laborCost: BigDecimal}
+        +setTax(): void {tax: BigDecimal}
+        +setTotal(): void {total: BigDecimal}
+    }
+}
+
+package advice{
+    class LoggingAdvice{
+        -auditDao: FlAuditDao
+
+        +LoggingAdvice() {auditDao: FlAuditDao}
+
+        +createAuditEntry(): void {jp: JoinPoint}
+        +createExceptionEntry(): void {ex: Exception}
+    }
+}
+
+controller *-up- view
+controller *-down- service
+service *-down- dao
+dao *-down- model
+controller *-down- advice
+@enduml
+
+@startuml
+title M4 Mastery - TSG Flooring Corp
+
+
+package view {
+    interface UserIO{
+        +print(): void {message: String}
+        +readString(): String {prompt: String}
+        +readInt(): int {prompt: String}
+        +readInt(): int {prompt: String, min: int, max: int}
+        +readDouble(): double {prompt: String}
+        +readDouble(): double {prompt: String, min: double, max: double}
+        +readFloat(): float {prompt: String}
+        +readFloat(): float {prompt: String, min: float, max: float}
+        +readLong(): long {prompt: String}
+        +readLong(): long {prompt: String, min: long, max: long}
+    }
+
+    class UserIOImpl{
+        -input: Scanner
+
+        +print(): void {message: String}
+        +readString(): String {prompt: String}
+        +readInt(): int {prompt: String}
+        +readInt(): int {prompt: String, min: int, max: int}
+        +readDouble(): double {prompt: String}
+        +readDouble(): double {prompt: String, min: double, max: double}
+        +readFloat(): float {prompt: String}
+        +readFloat(): float {prompt: String, min: float, max: float}
+        +readLong(): long {prompt: String}
+        +readLong(): long {prompt: String, min: long, max: long}
+    }
+
+    UserIO <|-down- UserIOImpl: implements
+
+    class FlView{
+        -io: UserIO
+
+        +FlView() {io: UserIO}
+
+        +mainMenuAndSelection(): int
+
+        +displayAddOrderBanner(): void
+        +getNewOrderInfo(): Order
+        +displayOrderInfo(): void {anOrder: Order}
+        +displayAddOrderSuccessBanner(): void
+        +displayAddOrderFailBanner(): void
+
+        +displayDisplayOrdersBanner(): void
+        +getOrdersDate(): LocalDate
+        +displayOrdersByDateInfo(): void {Map<Integer, Order>}
+        +displayDisplayOrdersFailBanner(): void
+
+        +displayEditOrderBanner(): void
+        +getEditedOrderInfo(): Order
+        +displayEditOrderSuccessBanner(): void
+        +displayEditOrderFailBanner(): void
+
+        +displayRemoveOrderBanner(): void
+        +getOrderRemovalDate(): LocalDate
+        +getOrderRemovalNum(): int
+        +displayRemoveOrderSuccessBanner(): void
+        +displayRemoveOrderFailBanner(): void
+
+        +displayExportOrderBanner():void
+        +displayExportOrderSuccessBanner(): void
+        +displayExportOrderFailBanner(): void
+        
+        +displayExitBanner(): void
+        +displayUnknownCommandBanner(): void
+        +displayErrorMessage(): void {errorMsg: String}
+    }
+}
+
+package controller {
+    class FlController{
+        -FlService: service
+        -FlView: view
+
+        +FlController() {FlService: service, FlView: view}
+        
+        +run(): void
+        -getMenuSelection(): int
+        +unknownCommand(): void
+        +exitMessage(): void
+
+        +displayOrders(): void
+        -addOrder(): void
+        -editOrder(): void
+        -removeOrder(): void
+        -exportOrders(): void
+    }
+}
+
+package service {
+    interface FlService{
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): Map<Integer, Order> {date: LocalDate}
+        +exportOrders(): void
+    }
+
+    class FlServiceImpl{
+        -dao: FlDao
+        -auditDao: FlAuditDao
+
+        +flServiceImpl() {dao: FlDao, auditDAO: FlAuditDao}
+
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): Map<Integer, Order> {date: LocalDate}
+        +exportOrders(): void
+
+        -validateOrder(): boolean {newOrder: Order}
+        -calcMaterialCost(): BigDecimal {newOrder: Order}
+        -calcLaborCost(): BigDecimal {newOrder: Order}
+        -calcTax(): BigDecimal {newOrder: Order}
+        -calcTotal(): BigDecimal {newOrder: Order}
+    }
+
+    FlService <|-down- FlServiceImpl: implements
+
+    class InvalidProductTypeException <<Exception>>{
+        +InvalidProductTypeException() {message: String}
+        +InvalidProductTypeException() {message: String, cause: Throwable}
+    }
+
+    class InvalidStateException <<Exception>>{
+        +InvalidStateException() {message: String}
+        +InvalidStateException() {message: String, cause: Throwable}
+    }
+
+    class InvalidAreaException <<Exception>>{
+        +InvalidAreaException() {message: String}
+        +InvalidAreaException() {message: String, cause: Throwable}
+    }
+
+    class InvalidOrderNumberException <<Exception>>{
+        +InvalidOrderNumberException() {message: String}
+        +InvalidOrderNumberException() {message: String, cause: Throwable}
+    }
+
+    class NoOrdersOnDateException <<Exception>>{
+        +NoOrdersOnDateException() {message: String}
+        +NoOrdersOnDateException() {message: String, cause: Throwable}
+    }
+
+}
+
+package dao {
+    class StateDao{
+        -states: Map<String, State>
+        +STATES_FILE: String
+        +DELIMITER: String
+
+        +stateDao()
+        +stateDao() {statesTextFile: String}
+
+        -loadStates(): void
+        -verifyOrderState(): boolean {newOrder: Order}
+    }
+    
+    class ProductDao{
+        -products: Map<String, ProductTypes>
+        +PRODUCT_FILE: String
+        +DELIMITER: String
+
+        +ProductDao()
+        +ProductDao() {productsTextFile: String}
+
+        -loadProducts(): void
+        -verifyOrderProduct(): boolean {newOrder: Order}
+    }
+    
+    interface FlDao{
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): Map<Integer, Order> {date: LocalDate}
+        +getAllOrders(): Map<LocalDate, Map<Integer, Order>>
+        +exportOrders(): void
+    }
+
+    class FlDaoImpl{
+        -orders: Map<LocalDate, Map<Integer, Order>>
+        -states: StateDao
+        -Product: ProductDao
+        +ORDER_FILE: String
+        +DELIMITER: String
+
+        +FlDaoImpl()
+        +FlDaoImpl() {ordersTextFile: String}
+
+        +addOrder(): Order {newOrder: Order}
+        +removeOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrder(): Order {date: LocalDate, orderNum: int}
+        +getOrdersByDate(): Map<Integer, Order> {date: LocalDate}
+        +getAllOrders(): Map<LocalDate, Map<Integer, Order>>
+        +exportOrders(): void
+
+        -marshallOrder(): String {anOrder: Item}
+        -unmarshallOrder(): Item {orderAsText: String}
+        -loadAllOrders(): void
+        -writeAllOrders(): void
+    }
+
+    FlDao <|-down- FlDaoImpl: implements
+    FlDao *-down- StateDao
+    FlDao *-down- ProductDao
+
+    interface FlAuditDao{
+        +writeAuditEntry(): void {entry: String}
+    }
+
+    class FlAuditDaoImpl{
+        -AUDIT_FILE: String
+
+        +writeAuditEntry(): void {entry: String}
+    }
+
+    FlAuditDao <|-down- FlAuditDaoImpl: implements
+
+    class OrderPersistenceException <<Exception>>{
+        OrderPersistenceException() {message: String}
+        OrderPersistenceException() {message: String, cause: Throwable}
+    }
+}
+
+package model {
+    class ProductTypes{
+        -productType: String
+        -costPerSqFt: BigDecimal
+        -laborCostPerSqFt: BigDecimal
+
+        +ProductTypes() {productType: String, costPerSqFt: BigDecimal, laborCostPerSqFt: BigDecimal}
+
+        +getProductType(): String
+        +getCostPerSqFt(): BigDecimal
+        +getLaborCostPerSqFt(): BigDecimal
+    }
+
+    class State{
+        -stateAbbreviation: String
+        -stateName: String
+        -taxRate: BigDecimal
+
+        +State() {stateAbbreviation: String, stateName: String, taxRate: BigDecimal}
+
+        +getStateAbbreviation(): String
+        +getStateName(): String
+        +getTaxRate(): BigDecimal
+    }
+    
+    class Order{
+        -orderDate: LocalDate
+        -orderNumber: int
+        -customerName: String
+        -state: State
+        -taxRate: BigDecimal
+        -productType: ProductTypes
+        -area: BigDecimal
+        -costPerSqFt: BigDecimal
+        -laborCostPerSqFt: BigDecimal
+        -materialCost: BigDecimal
+        -laborCost: BigDecimal
+        -tax: BigDecimal
+        -total: BigDecimal
+
+        +Order() {orderDate: LocalDate, customerName: String, state: State, productType: ProductTypes, area: BigDecimal}
+        +Order() {orderDate: LocalDate, orderNumber: int, customerName: String, state: State, taxRate: BigDecimal, productType: ProductTypes, area: BigDecimal, costPerSqFt: BigDecimal, laborCostPerSqFt: BigDecimal, materialCost: BigDecimal, laborCost: BigDecimal, tax: BigDecimal, total: BigDecimal}
+
+        +getOrderDate(): LocalDate
+        +getOrderNumber(): int
+        +getCustomerName(): String
+        +getState(): State
+        +getTaxRate(): BigDecimal
+        +getProductType(): ProductTypes
+        +getArea(): BigDecimal
+        +getCostPerSqFt(): BigDecimal
+        +getLaborCostPerSqFt(): BigDecimal
+        +getMaterialCost(): BigDecimal
+        +getLaborCost(): BigDecimal
+        +getTax(): BigDecimal
+        +getTotal(): BigDecimal
+
+        +setCustomerName(): void {customerName: String}
+        +setState(): void {state: State}
+        +setProductType(): void {productTypes: ProductTypes}
+        +setArea(): void {area: BigDecimal}
+
+        +setCostPerSqFt(): void {costPerSqFt: BigDecimal}
+        +setLaborCostPerSqFt(): void {laborCostPerSqFt: BigDecimal}
+        +setMaterialCost(): void {materialCost: BigDecimal}
+        +setLaborCost(): void {laborCost: BigDecimal}
+        +setTax(): void {tax: BigDecimal}
+        +setTotal(): void {total: BigDecimal}
+    }
+}
+
+package advice{
+    class LoggingAdvice{
+        -auditDao: FlAuditDao
+
+        +LoggingAdvice() {auditDao: FlAuditDao}
+
+        +createAuditEntry(): void {jp: JoinPoint}
+        +createExceptionEntry(): void {ex: Exception}
+    }
+}
+
+controller *-up- view
+controller *-down- service
+service *-down- dao
+dao *-down- model
+controller *-down- advice
+@enduml
+
+PlantUML version 1.2020.15beta1(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

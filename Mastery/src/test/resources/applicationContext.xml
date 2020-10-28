@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+          http://www.springframework.org/schema/beans/spring-beans.xsd
+          http://www.springframework.org/schema/mvc
+          http://www.springframework.org/schema/mvc/spring-mvc.xsd
+          http://www.springframework.org/schema/tx
+          http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+          http://www.springframework.org/schema/context
+          http://www.springframework.org/schema/context/spring-context.xsd
+          http://www.springframework.org/schema/aop  
+          http://www.springframework.org/schema/aop/spring-aop-3.2.xsd">
+
+    <!--stateless test only need dao ctors-->
+    <bean id="testStateDao" class="com.sg.flooringmastery.dao.StateDaoImpl">
+        <constructor-arg value=".\\TestingFileData\\Data\\testStates.txt"/>
+    </bean>
+    
+    <bean id="testProductDao" class="com.sg.flooringmastery.dao.ProductDaoImpl">
+        <constructor-arg value=".\\TestingFileData\\Data\\testProducts.txt"/>
+    </bean>
+    
+    <bean id="testOrderDao" class="com.sg.flooringmastery.dao.OrderDaoImpl">
+        <!--<constructor-arg type="java.io.File" value=".\\TestingFileData\\Orders"/>-->
+        <constructor-arg value=".\\TestingFileData\\Orders"/>
+    </bean>
+    
+    <!--stateful testing needs stubs-->
+    <bean id="stateDaoStub" class="com.sg.flooringmastery.service.StateDaoImplStub"/>
+    
+    <bean id="productDaoStub" class="com.sg.flooringmastery.service.ProductDaoImplStub"/>
+    
+    <bean id="orderDaoStub" class="com.sg.flooringmastery.service.OrderDaoImplStub"/>
+    
+    <bean id="auditDaoStub" class="com.sg.flooringmastery.service.AuditDaoImplStub"/>
+    
+    <bean id="exportDaoStub" class="com.sg.flooringmastery.service.ExportFileDaoImplStub"/>
+    
+    <bean id="testService" class="com.sg.flooringmastery.service.ServiceImpl">
+        <constructor-arg ref="stateDaoStub"/>
+        <constructor-arg ref="productDaoStub"/>
+        <constructor-arg ref="orderDaoStub"/>
+        <constructor-arg ref="auditDaoStub"/>
+        <constructor-arg ref="exportDaoStub"/>
+    </bean>
+    
+</beans>

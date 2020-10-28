@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+3,Futuristic Simpson,WA,9.25,Tile,986984,3.50,4.15,3454444.00,4095983.60,698414.55,8248842.15
+4,Singh and Sons:: LLC,TX,4.45,Wood,786,5.15,4.75,4047.90,3733.50,346.27,8127.67

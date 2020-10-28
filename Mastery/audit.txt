@@ -1,0 +1,151 @@
+2020-07-14T12:54:05.545338700 : Thrown: getOrdersByDate:: Message: null
+2020-07-14T12:54:05.547041500 : Thrown: getOrdersByDate:: Message: null
+2020-07-14T12:54:05.547041500 : Thrown: run:: Message: null
+2020-07-14T12:57:38.785933 : Thrown: getOrdersByDate:: Message: null
+2020-07-14T12:57:38.785933 : Thrown: getOrdersByDate:: Message: null
+2020-07-14T12:57:38.785933 : Thrown: run:: Message: null
+2020-07-14T13:05:52.849425500 : Thrown: getOrdersByDate:: Message: null
+2020-07-14T13:05:52.849425500 : Thrown: getOrdersByDate:: Message: null
+2020-07-14T13:05:52.850420800 : Thrown: run:: Message: null
+2020-07-14T13:09:57.094107 : Thrown: getOrdersByDate:: Message: No orders in system
+2020-07-14T13:09:57.095104300 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T13:13:32.340547100 : Thrown: getHighestOrderNumber:: Message: No orders in system
+2020-07-14T13:13:32.341544 : Thrown: validateOrder:: Message: No orders in system
+2020-07-14T13:21:33.516607700 : Thrown: getOrdersByDate:: Message: null
+2020-07-14T13:21:33.516607700 : Thrown: getOrdersByDate:: Message: null
+2020-07-14T13:21:33.516607700 : Thrown: run:: Message: null
+2020-07-14T13:23:17.890074300 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T13:23:17.890074300 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T13:27:02.839398600 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T13:27:02.839398600 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T13:27:42.871894900 : addOrder: Order{orderDate=2020-07-15, orderNum=1, customerName=Singh, Inc., state=State{stateAbbreviation=CA, stateName=California, taxRate=25.00}, product=Product{productType=Wood, costPerSqFt=5.15, laborCostPerSqFt=4.75}, area=2365, materialCost=12179.75, laborCost=11233.75, tax=5853.3750, total=29266.8750}
+2020-07-14T13:27:58.463604100 : Thrown: getOrdersByDate:: Message: Text '0715202' could not be parsed at index 4
+2020-07-14T13:27:58.463604100 : Thrown: getOrdersByDate:: Message: Text '0715202' could not be parsed at index 4
+2020-07-14T13:27:58.463604100 : Thrown: run:: Message: Text '0715202' could not be parsed at index 4
+2020-07-14T13:31:07.672643100 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T13:31:07.672643100 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T13:32:31.964160200 : addOrder: Order{orderDate=2020-07-15, orderNum=1, customerName=Singh, Inc., state=State{stateAbbreviation=CA, stateName=California, taxRate=25.00}, product=Product{productType=Wood, costPerSqFt=5.15, laborCostPerSqFt=4.75}, area=254, materialCost=1308.10, laborCost=1206.50, tax=628.6500, total=3143.2500}
+2020-07-14T13:33:03.415063100 : Thrown: getOrdersByDate:: Message: Text '0715202' could not be parsed at index 4
+2020-07-14T13:33:03.415063100 : Thrown: getOrdersByDate:: Message: Text '0715202' could not be parsed at index 4
+2020-07-14T13:33:03.415063100 : Thrown: run:: Message: Text '0715202' could not be parsed at index 4
+2020-07-14T13:36:47.391258500 : addOrder: Order{orderDate=2020-07-19, orderNum=2, customerName=Singh, Inc., state=State{stateAbbreviation=TX, stateName=Texas, taxRate=4.45}, product=Product{productType=Carpet, costPerSqFt=2.25, laborCostPerSqFt=2.10}, area=999, materialCost=2247.75, laborCost=2097.90, tax=193.381425, total=4539.031425}
+2020-07-14T13:37:35.904492900 : exportOrder: 
+2020-07-14T14:12:08.062660700 : removeOrder: 2020-07-192
+2020-07-14T14:12:43.673829400 : Thrown: getAllOrders:: Message: null
+2020-07-14T14:12:43.673829400 : Thrown: exportOrder:: Message: null
+2020-07-14T14:12:43.673829400 : Thrown: run:: Message: null
+2020-07-14T14:13:53.206074800 : exportOrder: 
+2020-07-14T14:20:45.792991600 : addOrder: Order{orderDate=2020-07-15, orderNum=2, customerName=Narad Construction, LLC, state=State{stateAbbreviation=WA, stateName=Washington, taxRate=9.25}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=555, materialCost=1942.50, laborCost=2303.25, tax=392.731875, total=4638.481875}
+2020-07-14T14:20:50.822609200 : exportOrder: 
+2020-07-14T14:21:36.235170900 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T14:21:36.236169100 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T14:24:55.642176900 : Thrown: readProductByID:: Message: We do not floor with this type of material at this time
+2020-07-14T14:24:55.642176900 : Thrown: validateProduct:: Message: We do not floor with this type of material at this time
+2020-07-14T14:25:07.033188300 : addOrder: Order{orderDate=2020-07-20, orderNum=3, customerName=John Cena, state=State{stateAbbreviation=TX, stateName=Texas, taxRate=4.45}, product=Product{productType=Laminate, costPerSqFt=1.75, laborCostPerSqFt=2.10}, area=999, materialCost=1748.25, laborCost=2097.90, tax=171.153675, total=4017.303675}
+2020-07-14T14:25:15.758315200 : exportOrder: 
+2020-07-14T14:25:37.356831200 : removeOrder: 2020-07-203
+2020-07-14T14:25:47.106151100 : Thrown: getAllOrders:: Message: No line found
+2020-07-14T14:25:47.106151100 : Thrown: exportOrder:: Message: No line found
+2020-07-14T14:25:47.106151100 : Thrown: run:: Message: No line found
+2020-07-14T14:29:00.534854500 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T14:29:00.535852900 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T14:29:20.849594800 : addOrder: Order{orderDate=2021-08-29, orderNum=3, customerName=Ramsingh Sharma, state=State{stateAbbreviation=KY, stateName=Kentucky, taxRate=6.00}, product=Product{productType=Wood, costPerSqFt=5.15, laborCostPerSqFt=4.75}, area=897, materialCost=4619.55, laborCost=4260.75, tax=532.8180, total=9413.1180}
+2020-07-14T14:40:07.635342 : exportOrder: 
+2020-07-14T14:45:00.205837200 : removeOrder: 2021-08-293
+2020-07-14T14:45:04.185938300 : Thrown: getAllOrders:: Message: No line found
+2020-07-14T14:45:04.185938300 : Thrown: exportOrder:: Message: No line found
+2020-07-14T14:45:04.185938300 : Thrown: run:: Message: No line found
+2020-07-14T14:49:45.791560800 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T14:49:45.791560800 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T14:50:05.514348600 : addOrder: Order{orderDate=2021-01-01, orderNum=3, customerName=John Cena, state=State{stateAbbreviation=WA, stateName=Washington, taxRate=9.25}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=100, materialCost=350.00, laborCost=415.00, tax=70.762500, total=835.762500}
+2020-07-14T14:50:29.286804100 : removeOrder: 2021-01-013
+2020-07-14T14:50:36.212349500 : Thrown: getAllOrders:: Message: No line found
+2020-07-14T14:50:36.212349500 : Thrown: exportOrder:: Message: No line found
+2020-07-14T14:50:36.213343100 : Thrown: run:: Message: No line found
+2020-07-14T14:54:57.520523100 : exportOrder: 
+2020-07-14T15:09:06.941787800 : addOrder: Order{orderDate=2021-01-01, orderNum=3, customerName=John Cena, the III, state=State{stateAbbreviation=TX, stateName=Texas, taxRate=4.45}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=156, materialCost=546.00, laborCost=647.40, tax=53.106300, total=1246.506300}
+2020-07-14T15:09:12.525605200 : exportOrder: 
+2020-07-14T15:09:37.075043600 : removeOrder: 2021-01-013
+2020-07-14T15:10:29.536511700 : addOrder: Order{orderDate=2021-01-01, orderNum=3, customerName=John Cena, state=State{stateAbbreviation=TX, stateName=Texas, taxRate=4.45}, product=Product{productType=Carpet, costPerSqFt=2.25, laborCostPerSqFt=2.10}, area=110, materialCost=247.50, laborCost=231.00, tax=21.293250, total=499.793250}
+2020-07-14T15:10:44.176236800 : removeOrder: 2021-01-013
+2020-07-14T15:35:25.777997100 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T15:35:25.778995100 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T15:35:29.688863300 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T15:35:29.688863300 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T15:35:41.038829 : Thrown: inputEditedProductType:: Message: begin 0, end 1, length 0
+2020-07-14T15:35:41.038829 : Thrown: run:: Message: begin 0, end 1, length 0
+2020-07-14T16:02:48.272657 : Thrown: readInt:: Message: For input string: ""
+2020-07-14T16:03:23.603894300 : editOrder: Order{orderDate=2020-07-15, orderNum=1, customerName=, state=State{stateAbbreviation=KY, stateName=Kentucky, taxRate=6.00}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=101, materialCost=353.50, laborCost=419.15, tax=46.3590, total=819.0090}Order{orderDate=2020-07-15, orderNum=1, customerName=Singh, Inc., state=State{stateAbbreviation=CA, stateName=null, taxRate=25.00}, product=Product{productType=Wood, costPerSqFt=5.15, laborCostPerSqFt=4.75}, area=254, materialCost=1308.10, laborCost=1206.50, tax=628.6500, total=3143.2500}
+2020-07-14T21:05:19.618566200 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T21:05:19.618566200 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T21:05:34.074795800 : Thrown: inputEditedProductType:: Message: begin 0, end 1, length 0
+2020-07-14T21:05:34.076112900 : Thrown: run:: Message: begin 0, end 1, length 0
+2020-07-14T21:06:29.636504500 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T21:06:29.640424200 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T21:06:35.721823800 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T21:06:35.723728400 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T21:13:06.285238 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T21:13:06.285238 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T21:13:17.337160600 : Thrown: inputEditedProductType:: Message: begin 0, end 1, length 0
+2020-07-14T21:13:17.337160600 : Thrown: run:: Message: begin 0, end 1, length 0
+2020-07-14T21:15:30.558739300 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T21:15:30.561057900 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T21:15:31.812850200 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T21:15:31.812850200 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T21:15:39.721656700 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T21:15:39.721976700 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T21:51:53.387801900 : editOrder: Order{orderDate=2020-07-15, orderNum=1, customerName=John Cena, state=State{stateAbbreviation=KY, stateName=Kentucky, taxRate=6.00}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=150, materialCost=525.00, laborCost=622.50, tax=68.8500, total=1216.3500}Order{orderDate=2020-07-15, orderNum=1, customerName=, state=State{stateAbbreviation=KY, stateName=null, taxRate=6.00}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=101, materialCost=353.50, laborCost=419.15, tax=46.3590, total=819.0090}
+2020-07-14T21:52:36.997607100 : removeOrder: 2020-07-151
+2020-07-14T21:52:54.692476900 : Thrown: getOrder:: Message: No such order exists
+2020-07-14T21:52:54.692476900 : Thrown: getOrder:: Message: No such order exists
+2020-07-14T21:53:15.806770900 : removeOrder: 2020-07-152
+2020-07-14T21:53:37.420838200 : exportOrder: 
+2020-07-14T21:57:35.904232800 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T21:57:35.905449600 : Thrown: getOrdersByDate:: Message: No orders to display
+2020-07-14T21:57:59.489344700 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-14T21:57:59.489344700 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-14T22:06:35.672988100 : addOrder: Order{orderDate=2021-01-01, orderNum=1, customerName=Narish Singh, state=State{stateAbbreviation=CA, stateName=California, taxRate=25.00}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=999, materialCost=3496.50, laborCost=4145.85, tax=1910.59, total=9552.94}
+2020-07-14T22:06:55.562979600 : exportOrder: 
+2020-07-16T12:36:08.549688500 : Thrown: readProductByID:: Message: We do not floor with this type of material at this time
+2020-07-16T12:36:08.549688500 : Thrown: validateProduct:: Message: We do not floor with this type of material at this time
+2020-07-16T12:36:42.847445 : addOrder: Order{orderDate=2022-07-18, orderNum=2, customerName=Nath Industries, Inc., state=State{stateAbbreviation=TX, stateName=Texas, taxRate=4.45}, product=Product{productType=Laminate, costPerSqFt=1.75, laborCostPerSqFt=2.10}, area=962, materialCost=1683.50, laborCost=2020.20, tax=164.81, total=3868.51}
+2020-07-16T12:41:44.409436800 : addOrder: Order{orderDate=3020-09-29, orderNum=3, customerName=Futuristic Simpson, state=State{stateAbbreviation=WA, stateName=Washington, taxRate=9.25}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=986984, materialCost=3454444.00, laborCost=4095983.60, tax=698414.55, total=8248842.15}
+2020-07-16T12:42:05.506615300 : exportOrder: 
+2020-07-16T12:43:14.938091300 : removeOrder: 2022-07-182
+2020-07-16T12:43:23.793708400 : exportOrder: 
+2020-07-16T12:46:09.598738700 : addOrder: Order{orderDate=3020-09-29, orderNum=4, customerName=Singh and Sons, state=State{stateAbbreviation=KY, stateName=Kentucky, taxRate=6.00}, product=Product{productType=Laminate, costPerSqFt=1.75, laborCostPerSqFt=2.10}, area=786, materialCost=1375.50, laborCost=1650.60, tax=181.57, total=3207.67}
+2020-07-16T12:48:32.304738600 : editOrder: Order{orderDate=2021-01-01, orderNum=1, customerName=Narish Singh, state=State{stateAbbreviation=CA, stateName=California, taxRate=25.00}, product=Product{productType=Carpet, costPerSqFt=2.25, laborCostPerSqFt=2.10}, area=786, materialCost=1768.50, laborCost=1650.60, tax=854.78, total=4273.88}Order{orderDate=2021-01-01, orderNum=1, customerName=Narish Singh, state=State{stateAbbreviation=CA, stateName=null, taxRate=25.00}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=999, materialCost=3496.50, laborCost=4145.85, tax=1910.59, total=9552.94}
+2020-07-16T12:48:42.669990900 : exportOrder: 
+2020-07-16T12:49:29.892198200 : editOrder: Order{orderDate=2021-01-01, orderNum=1, customerName=Narish Singh, state=State{stateAbbreviation=CA, stateName=California, taxRate=25.00}, product=Product{productType=Carpet, costPerSqFt=2.25, laborCostPerSqFt=2.10}, area=786, materialCost=1768.50, laborCost=1650.60, tax=854.78, total=4273.88}Order{orderDate=2021-01-01, orderNum=1, customerName=Narish Singh, state=State{stateAbbreviation=CA, stateName=null, taxRate=25.00}, product=Product{productType=Carpet, costPerSqFt=2.25, laborCostPerSqFt=2.10}, area=786, materialCost=1768.50, laborCost=1650.60, tax=854.78, total=4273.88}
+2020-07-17T13:01:44.182041200 : addOrder: Order{orderDate=2022-08-23, orderNum=5, customerName=Anaheim Electronics, Inc., state=State{stateAbbreviation=CA, stateName=California, taxRate=25.00}, product=Product{productType=Laminate, costPerSqFt=1.75, laborCostPerSqFt=2.10}, area=3079, materialCost=5388.25, laborCost=6465.90, tax=2963.54, total=14817.69}
+2020-07-17T13:02:11.203138500 : exportOrder: 
+2020-07-17T13:03:54.117743700 : editOrder: Order{orderDate=3020-09-29, orderNum=4, customerName=Singh and Sons, LLC, state=State{stateAbbreviation=TX, stateName=Texas, taxRate=4.45}, product=Product{productType=Wood, costPerSqFt=5.15, laborCostPerSqFt=4.75}, area=786, materialCost=4047.90, laborCost=3733.50, tax=346.27, total=8127.67}Order{orderDate=3020-09-29, orderNum=4, customerName=Singh and Sons, state=State{stateAbbreviation=KY, stateName=null, taxRate=6.00}, product=Product{productType=Laminate, costPerSqFt=1.75, laborCostPerSqFt=2.10}, area=786, materialCost=1375.50, laborCost=1650.60, tax=181.57, total=3207.67}
+2020-07-17T13:04:16.820161900 : exportOrder: 
+2020-07-17T13:04:36.988440700 : removeOrder: 2022-08-235
+2020-07-17T15:39:56.886660600 : exportOrder: 
+2020-07-19T19:19:52.351148800 : Thrown: readStateByID:: Message: We are unavailable for business in this state for now
+2020-07-19T19:19:52.355244900 : Thrown: validateState:: Message: We are unavailable for business in this state for now
+2020-07-19T19:20:10.441681100 : Thrown: readProductByID:: Message: We do not floor with this type of material at this time
+2020-07-19T19:20:10.441681100 : Thrown: validateProduct:: Message: We do not floor with this type of material at this time
+2020-07-19T19:20:19.235409 : Thrown: readProductByID:: Message: We do not floor with this type of material at this time
+2020-07-19T19:20:19.236430900 : Thrown: validateProduct:: Message: We do not floor with this type of material at this time
+2020-07-19T19:20:46.408688400 : addOrder: Order{orderDate=2023-10-31, orderNum=5, customerName=The Rock, state=State{stateAbbreviation=CA, stateName=California, taxRate=25.00}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=178, materialCost=623.00, laborCost=738.70, tax=340.43, total=1702.13}
+2020-07-19T19:21:43.138718700 : addOrder: Order{orderDate=2025-11-09, orderNum=6, customerName=El Chapo, state=State{stateAbbreviation=TX, stateName=Texas, taxRate=4.45}, product=Product{productType=Wood, costPerSqFt=5.15, laborCostPerSqFt=4.75}, area=458, materialCost=2358.70, laborCost=2175.50, tax=201.77, total=4735.97}
+2020-07-19T19:22:29.790897700 : addOrder: Order{orderDate=2023-10-31, orderNum=7, customerName=AEUG, state=State{stateAbbreviation=WA, stateName=Washington, taxRate=9.25}, product=Product{productType=Laminate, costPerSqFt=1.75, laborCostPerSqFt=2.10}, area=682, materialCost=1193.50, laborCost=1432.20, tax=242.88, total=2868.58}
+2020-07-19T19:22:33.671390700 : exportOrder: 
+2020-07-19T19:23:08.015821700 : removeOrder: 2025-11-096
+2020-07-19T19:23:12.122094900 : exportOrder: 
+2020-07-20T11:39:27.695309400 : addOrder: Order{orderDate=2020-08-31, orderNum=8, customerName=Thanos Industies, Inc., state=State{stateAbbreviation=KY, stateName=Kentucky, taxRate=6.00}, product=Product{productType=Laminate, costPerSqFt=1.75, laborCostPerSqFt=2.10}, area=235, materialCost=411.25, laborCost=493.50, tax=54.29, total=959.04}
+2020-07-20T11:39:33.541035300 : exportOrder: 
+2020-07-20T11:42:08.583502100 : addOrder: Order{orderDate=2020-08-31, orderNum=9, customerName=Daily Bugle, state=State{stateAbbreviation=CA, stateName=California, taxRate=25.00}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=125, materialCost=437.50, laborCost=518.75, tax=239.06, total=1195.31}
+2020-07-20T11:42:14.822800 : exportOrder: 
+2020-07-20T11:44:48.679568100 : editOrder: Order{orderDate=2020-08-31, orderNum=9, customerName=Daily Bugle, state=State{stateAbbreviation=WA, stateName=Washington, taxRate=9.25}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=230, materialCost=805.00, laborCost=954.50, tax=162.75, total=1922.25}Order{orderDate=2020-08-31, orderNum=9, customerName=Daily Bugle, state=State{stateAbbreviation=CA, stateName=null, taxRate=25.00}, product=Product{productType=Tile, costPerSqFt=3.50, laborCostPerSqFt=4.15}, area=125, materialCost=437.50, laborCost=518.75, tax=239.06, total=1195.31}
+2020-07-20T11:45:09.216560100 : removeOrder: 2020-08-318
+2020-07-20T11:45:13.021470700 : exportOrder: 
+2020-07-20T11:46:10.684852800 : addOrder: Order{orderDate=2020-08-31, orderNum=10, customerName=John Cena, state=State{stateAbbreviation=CA, stateName=California, taxRate=25.00}, product=Product{productType=Carpet, costPerSqFt=2.25, laborCostPerSqFt=2.10}, area=333, materialCost=749.25, laborCost=699.30, tax=362.14, total=1810.69}
+2020-07-20T11:46:16.819281700 : exportOrder: 
+2020-07-20T13:18:55.831860200 : addOrder: Order{orderDate=2030-01-01, orderNum=11, customerName=Randy Hash, LLC., state=State{stateAbbreviation=KY, stateName=Kentucky, taxRate=6.00}, product=Product{productType=Wood, costPerSqFt=5.15, laborCostPerSqFt=4.75}, area=850, materialCost=4377.50, laborCost=4037.50, tax=504.90, total=8919.90}
+2020-07-20T13:21:10.421238200 : editOrder: Order{orderDate=2030-01-01, orderNum=11, customerName=Hash Ventures, LLC, state=State{stateAbbreviation=KY, stateName=Kentucky, taxRate=6.00}, product=Product{productType=Carpet, costPerSqFt=2.25, laborCostPerSqFt=2.10}, area=800, materialCost=1800.00, laborCost=1680.00, tax=208.80, total=3688.80}Order{orderDate=2030-01-01, orderNum=11, customerName=Randy Hash, LLC., state=State{stateAbbreviation=KY, stateName=null, taxRate=6.00}, product=Product{productType=Wood, costPerSqFt=5.15, laborCostPerSqFt=4.75}, area=850, materialCost=4377.50, laborCost=4037.50, tax=504.90, total=8919.90}
+2020-07-20T13:21:33.329629500 : exportOrder: 
+2020-07-20T13:24:10.472952300 : removeOrder: 2020-08-3110
+2020-07-20T13:24:48.547461900 : removeOrder: 2020-08-319

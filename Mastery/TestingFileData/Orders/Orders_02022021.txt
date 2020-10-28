@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+3,Anthony Third,CA,25.00,Laminate,300,1.75,2.10,525.00,630.00,288.7500,1443.7500

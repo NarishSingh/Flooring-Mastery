@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Narish Singh,CA,25.00,Carpet,786,2.25,2.10,1768.50,1650.60,854.78,4273.88

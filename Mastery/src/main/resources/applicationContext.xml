@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+          http://www.springframework.org/schema/beans/spring-beans.xsd
+          http://www.springframework.org/schema/mvc
+          http://www.springframework.org/schema/mvc/spring-mvc.xsd
+          http://www.springframework.org/schema/tx
+          http://www.springframework.org/schema/tx/spring-tx-3.0.xsd
+          http://www.springframework.org/schema/context
+          http://www.springframework.org/schema/context/spring-context.xsd
+          http://www.springframework.org/schema/aop  
+          http://www.springframework.org/schema/aop/spring-aop-3.2.xsd">
+          
+    <!--FW beans-->
+    <bean id="userIO" class="com.sg.flooringmastery.view.UserIOImpl" />
+    
+    <bean id="view" class="com.sg.flooringmastery.view.View">
+        <constructor-arg ref="userIO" />
+    </bean>
+    
+    <bean id="orderDao" class="com.sg.flooringmastery.dao.OrderDaoImpl" />
+    
+    <bean id="auditDao" class="com.sg.flooringmastery.dao.AuditDaoImpl" />
+    
+    <bean id="exportDao" class="com.sg.flooringmastery.dao.ExportFileDaoImpl" />
+    
+    <bean id="productDao" class="com.sg.flooringmastery.dao.ProductDaoImpl" />
+    
+    <bean id="stateDao" class="com.sg.flooringmastery.dao.StateDaoImpl" />
+    
+    <bean id="service" class="com.sg.flooringmastery.service.ServiceImpl">
+        <constructor-arg ref="stateDao" />
+        <constructor-arg ref="productDao" />
+        <constructor-arg ref="orderDao" />
+        <constructor-arg ref="auditDao" />
+        <constructor-arg ref="exportDao" />
+    </bean>
+    
+    <bean id="controller" class="com.sg.flooringmastery.controller.Controller">
+        <constructor-arg ref="service"/>
+        <constructor-arg ref="view"/>
+    </bean>
+    
+    <!--AOP beans-->
+    <bean id="loggingAdvice" class="com.sg.flooringmastery.advice.LoggingAdvice">
+        <constructor-arg ref="auditDao" />
+    </bean>
+    
+    <aop:config>
+        <aop:aspect ref="loggingAdvice">
+            <aop:after-returning 
+                method="createAuditEntry"
+                pointcut="execution(* com.sg.flooringmastery.service.Service.addOrder(..) )"
+            />
+            <aop:after-returning 
+                method="createAuditEntry"
+                pointcut="execution(* com.sg.flooringmastery.service.Service.removeOrder(..) )"
+            />
+            <aop:after-returning 
+                method="createAuditEntry"
+                pointcut="execution(* com.sg.flooringmastery.service.Service.editOrder(..) )"
+            />
+            <aop:after-returning 
+                method="createAuditEntry"
+                pointcut="execution(* com.sg.flooringmastery.service.Service.exportOrder(..) )"
+            />
+            <aop:after-throwing
+                method="createExceptionWithJoinpointEntry"
+                pointcut="execution(* *(..))"
+                throwing="ex"
+            />
+        </aop:aspect>
+    </aop:config>
+    
+</beans>

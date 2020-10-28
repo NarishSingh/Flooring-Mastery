@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="750px" preserveAspectRatio="none" style="width:946px;height:750px;" version="1.1" viewBox="0 0 946 750" width="946px" zoomAndPan="magnify"><defs><filter height="300%" id="fry01g2hdgz3y" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="420" x="262" y="26.708">TSG Flooring Corp - removeOrder() Sequence</text><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="34" x2="34" y1="73.25" y2="701.9063"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="299.5" x2="299.5" y1="73.25" y2="701.9063"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="618.5" x2="618.5" y1="73.25" y2="701.9063"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="826.5" x2="826.5" y1="73.25" y2="701.9063"/><rect fill="#FEFECE" filter="url(#fry01g2hdgz3y)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="48" x="8" y="37.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="34" x="15" y="57.9482">View</text><rect fill="#FEFECE" filter="url(#fry01g2hdgz3y)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="48" x="8" y="700.9063"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="34" x="15" y="720.9014">View</text><rect fill="#FEFECE" filter="url(#fry01g2hdgz3y)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="87" x="254.5" y="37.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="73" x="261.5" y="57.9482">Controller</text><rect fill="#FEFECE" filter="url(#fry01g2hdgz3y)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="87" x="254.5" y="700.9063"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="73" x="261.5" y="720.9014">Controller</text><rect fill="#FEFECE" filter="url(#fry01g2hdgz3y)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="67" x="583.5" y="37.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="53" x="590.5" y="57.9482">Service</text><rect fill="#FEFECE" filter="url(#fry01g2hdgz3y)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="67" x="583.5" y="700.9063"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="53" x="590.5" y="720.9014">Service</text><rect fill="#FEFECE" filter="url(#fry01g2hdgz3y)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="83" x="783.5" y="37.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="69" x="790.5" y="57.9482">OrderDao</text><rect fill="#FEFECE" filter="url(#fry01g2hdgz3y)" height="30.2969" style="stroke: #A80036; stroke-width: 1.5;" width="83" x="783.5" y="700.9063"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="69" x="790.5" y="720.9014">OrderDao</text><polygon fill="#A80036" points="45,100.3828,35,104.3828,45,108.3828,41,104.3828" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="39" x2="299" y1="104.3828" y2="104.3828"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="190" x="51" y="99.3169">displayRemoveOrderBanner()</text><polygon fill="#A80036" points="288,129.5156,298,133.5156,288,137.5156,292,133.5156" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="34" x2="294" y1="133.5156" y2="133.5156"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="27" x="41" y="128.4497">void</text><polygon fill="#A80036" points="45,158.6484,35,162.6484,45,166.6484,41,162.6484" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="39" x2="299" y1="162.6484" y2="162.6484"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="136" x="51" y="157.5825">getSingleOrderDate()</text><polygon fill="#A80036" points="288,187.7813,298,191.7813,288,195.7813,292,191.7813" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="34" x2="294" y1="191.7813" y2="191.7813"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="64" x="41" y="186.7153">LocalDate</text><polygon fill="#A80036" points="45,216.9141,35,220.9141,45,224.9141,41,220.9141" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="39" x2="299" y1="220.9141" y2="220.9141"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="97" x="51" y="215.8481">getOrderNum()</text><polygon fill="#A80036" points="288,246.0469,298,250.0469,288,254.0469,292,250.0469" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="34" x2="294" y1="250.0469" y2="250.0469"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="16" x="41" y="244.981">int</text><polygon fill="#A80036" points="607,275.1797,617,279.1797,607,283.1797,611,279.1797" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="300" x2="613" y1="279.1797" y2="279.1797"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="155" x="307" y="274.1138">getOrder(LocalDate, int)</text><polygon fill="#A80036" points="815,304.3125,825,308.3125,815,312.3125,819,308.3125" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="619" x2="821" y1="308.3125" y2="308.3125"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="155" x="626" y="303.2466">getOrder(LocalDate, int)</text><polygon fill="#A80036" points="630,333.4453,620,337.4453,630,341.4453,626,337.4453" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="624" x2="826" y1="337.4453" y2="337.4453"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="36" x="636" y="332.3794">Order</text><polygon fill="#A80036" points="311,362.5781,301,366.5781,311,370.5781,307,366.5781" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="305" x2="618" y1="366.5781" y2="366.5781"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="36" x="317" y="361.5122">Order</text><polygon fill="#A80036" points="45,391.7109,35,395.7109,45,399.7109,41,395.7109" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="39" x2="299" y1="395.7109" y2="395.7109"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="152" x="51" y="390.645">confirmOrderRemoval()</text><polygon fill="#A80036" points="288,420.8438,298,424.8438,288,428.8438,292,424.8438" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="34" x2="294" y1="424.8438" y2="424.8438"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="51" x="41" y="419.7778">boolean</text><polygon fill="#A80036" points="607,449.9766,617,453.9766,607,457.9766,611,453.9766" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="300" x2="613" y1="453.9766" y2="453.9766"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="295" x="307" y="448.9106">removeOrder(date: LocalDate, orderNum: int)</text><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="827" x2="869" y1="483.1094" y2="483.1094"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="869" x2="869" y1="483.1094" y2="496.1094"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="828" x2="869" y1="496.1094" y2="496.1094"/><polygon fill="#A80036" points="838,492.1094,828,496.1094,838,500.1094,834,496.1094" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="95" x="834" y="478.0435">loadAllOrders()</text><polygon fill="#A80036" points="815,521.2422,825,525.2422,815,529.2422,819,525.2422" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="619" x2="821" y1="525.2422" y2="525.2422"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="184" x="626" y="520.1763">removeOrder(LocalDate, int)</text><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="827" x2="869" y1="554.375" y2="554.375"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="869" x2="869" y1="554.375" y2="567.375"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="828" x2="869" y1="567.375" y2="567.375"/><polygon fill="#A80036" points="838,563.375,828,567.375,838,571.375,834,567.375" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="100" x="834" y="549.3091">writeAllOrders()</text><polygon fill="#A80036" points="630,592.5078,620,596.5078,630,600.5078,626,596.5078" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="624" x2="826" y1="596.5078" y2="596.5078"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="36" x="636" y="591.4419">Order</text><polygon fill="#A80036" points="311,621.6406,301,625.6406,311,629.6406,307,625.6406" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="305" x2="618" y1="625.6406" y2="625.6406"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="36" x="317" y="620.5747">Order</text><polygon fill="#A80036" points="45,650.7734,35,654.7734,45,658.7734,41,654.7734" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="39" x2="299" y1="654.7734" y2="654.7734"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="242" x="51" y="649.7075">displayRemoveOrderSuccessBanner()</text><polygon fill="#A80036" points="288,679.9063,298,683.9063,288,687.9063,292,683.9063" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="34" x2="294" y1="683.9063" y2="683.9063"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="27" x="41" y="678.8403">void</text><!--MD5=[de26489a6c469ec2502bb35751a478ce]
+@startuml
+title TSG Flooring Corp - removeOrder() Sequence
+
+View <- Controller : displayRemoveOrderBanner()
+View - -> Controller : void 
+View <- Controller : getSingleOrderDate()
+View - -> Controller : LocalDate
+View <- Controller : getOrderNum()
+View - -> Controller : int
+
+Controller -> Service : getOrder(LocalDate, int)
+Service -> OrderDao : getOrder(LocalDate, int)
+OrderDao - -> Service : Order
+Service - -> Controller : Order
+
+Controller -> View : confirmOrderRemoval()
+View - -> Controller : boolean
+
+Controller -> Service : removeOrder(date: LocalDate, orderNum: int)
+OrderDao - -> OrderDao : loadAllOrders()
+Service -> OrderDao : removeOrder(LocalDate, int)
+OrderDao - -> OrderDao : writeAllOrders()
+OrderDao - -> Service : Order
+Service - -> Controller : Order
+
+'OrderDao -[#blue]-> AuditDao : writeAuditEntry()
+
+Controller -> View : displayRemoveOrderSuccessBanner()
+View - -> Controller : void
+@enduml
+
+@startuml
+title TSG Flooring Corp - removeOrder() Sequence
+
+View <- Controller : displayRemoveOrderBanner()
+View - -> Controller : void 
+View <- Controller : getSingleOrderDate()
+View - -> Controller : LocalDate
+View <- Controller : getOrderNum()
+View - -> Controller : int
+
+Controller -> Service : getOrder(LocalDate, int)
+Service -> OrderDao : getOrder(LocalDate, int)
+OrderDao - -> Service : Order
+Service - -> Controller : Order
+
+Controller -> View : confirmOrderRemoval()
+View - -> Controller : boolean
+
+Controller -> Service : removeOrder(date: LocalDate, orderNum: int)
+OrderDao - -> OrderDao : loadAllOrders()
+Service -> OrderDao : removeOrder(LocalDate, int)
+OrderDao - -> OrderDao : writeAllOrders()
+OrderDao - -> Service : Order
+Service - -> Controller : Order
+
+
+Controller -> View : displayRemoveOrderSuccessBanner()
+View - -> Controller : void
+@enduml
+
+PlantUML version 1.2020.16beta1(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

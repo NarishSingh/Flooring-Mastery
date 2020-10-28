@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+11,Hash Ventures:: LLC,KY,6.00,Carpet,800,2.25,2.10,1800.00,1680.00,208.80,3688.80
