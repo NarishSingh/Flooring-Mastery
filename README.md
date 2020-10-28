@@ -1,2 +1,2 @@
 # Flooring-Mastery
-My mastery project forSoftware Guild's Object Oriented Programming course
+My mastery project for Software Guild's Object Oriented Programming course
